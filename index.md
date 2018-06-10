@@ -2,7 +2,7 @@
 layout: frontpage
 title: Justin Bagley
 description: Justin Bagley is an evolutionary biologist and postdoctoral researcher at Virginia Commonwealth University; research in genetics-driven approaches (among others) and computational tools (bioinformatics scripts/pipelines) for understanding processes shaping the diversity, distributions, and adaptive evolution of species through space and time. 
-keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics, bioinformatics
+keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics, bioinformatics, fishes, trees
 ---
 
 <div class="navbar">
@@ -19,26 +19,25 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="index.md">
+        <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    <a href="index.md">
+        <img src="assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="index.md">
+        <img src="assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="index.md">
+        <img src="pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example"/>
     </a>
   </td>
 </tr>
