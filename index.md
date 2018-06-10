@@ -1,16 +1,53 @@
-## Welcome to the personal academic website of Dr. Justin C. Bagley. 
+---
+layout: frontpage
+title: Justin Bagley
+description: Justin Bagley is an evolutionary biologist and postdoctoral researcher at Virginia Commonwealth University; research in genetics-driven approaches (among others) and computational tools (bioinformatics scripts/pipelines) for understanding processes shaping the diversity, distributions, and adaptive evolution of species through space and time. 
+keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics, bioinformatics
+---
 
-I am an evolutionary biologist interested in using and developing genetics-driven approaches (among others) and computational tools (bioinformatics scripts/pipelines) to understand processes shaping the diversity, distributions, and adaptive evolution of species through space and time. I am also interested in applying the inferences and tools of evolutionary genetics to the conservation of threatened and endangered species. Under these general themes, my research focuses on advancing our understanding of the ecology and evolution of natural populations of animals and plants in four key areas, which naturally overlap:
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/Bagley_CV_May152018.pdf">cv</a></li>
+          <li><a href="https://github.com/justincbagley">github</a></li>
+          <li><a href="http://www.justinbagley.org/blog">blog</a></li>
+          <li><a href="https://twitter.com/justincbagley">@justincbagley</a></li>
+      </ul>
+  </div>
+</div>
 
-## 1. Evolutionary Genetics
- - My research advances our knowledge of evolutionary genetics through studies of phylogeography, phylogenetic analysis (including phylogenetic comparative biology), and the process of speciation (e.g. speciation with gene flow). This work focuses on freshwater fishes, lizards, and pine trees.
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="pages/publpics/iplotCorr.html">
+        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/tian2016_fig4.html">
+        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="pages/publpics/samplemixups_fig7.html">
+        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="pages/publpics/isletc6_fig4.html">
+        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    </a>
+  </td>
+</tr>
+</table>
 
-## 2. Systematics
-- My phylogenetic systematics and taxonomy studies discover and determine evolutionary relationships among species, and then seek to describe new biodiversity. This research focuses on diversification and systematics of freshwater fishes and lizards in biodiversity hotspots of a) the Central and South American Neotropics and b) North America.
-
-## 3. Evolutionary Ecology
-- We are generating genome-wide datasets for investigating the patterns and responses of species to abiotic environmental gradients. Here, I am particularly interested in patterns of tree adaptation to elevational gradients, in the face of ongoing/future climate change.
-
-## 4. Conservation Genomics
- - This work focuses on measuring the genetic diversity of wild populations using high-throughput sequencing, and predicting potential effects of habitat fragmentation, climate change, and other threats to species persistence. I am also interested in conducting molecular and experimental studies of genetic rescue and hybridization in managed populations.
- 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="morefigs.html">see more figures</a></li>
+      </ul>
+  </div>
+</div>
