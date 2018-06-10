@@ -20,24 +20,24 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
 <tr>
   <td class="left">
     <a href="index.md">
-        <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example"/>
+        <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="450"/>
     </a>
   </td>
   <td class="right">
     <a href="index.md">
-        <img src="assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig"/>
+        <img src="assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="450"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="index.md">
-        <img src="assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig"/>
+        <img src="assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig" width="450"/>
     </a>
   </td>
   <td class="right">
     <a href="index.md">
-        <img src="assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example"/>
+        <img src="assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example" width="450"/>
     </a>
   </td>
 </tr>
