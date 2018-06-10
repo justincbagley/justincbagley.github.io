@@ -37,7 +37,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
   </td>
   <td class="right">
     <a href="index.md">
-        <img src="pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example"/>
+        <img src="assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example"/>
     </a>
   </td>
 </tr>
