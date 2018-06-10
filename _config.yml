@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Justin C. Bagley - Evolutionary Genetics
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Justin C. Bagley
+  email : jcbagley@vcu.edu
+  github : justincbagley
+  twitter : justincbagley
   feedburner : nil
 
-production_url : https://kbroman.github.io
+production_url : https://justincbagley.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -58,7 +58,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  # ASSET_PATH : http://kbroman.org/assets/themes/twitter
+  # ASSET_PATH : http://justinbagley.org/assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
