@@ -18,8 +18,8 @@ Presentation)
 <!--23. -->**Bagley JC**, Menon MG, Friedline C, Whipple A, Schoettle A, Sáenz ALG, Wehenkel CA, 
 Flores-Rentería LH, Sniezko R, Cushman S, Waring K, Eckert AJ (2018) Population genomics 
 and paleoclimatic modeling support speciation with gene flow, not genomic islands of 
-differentiation, in sky-island populations of southwestern white pine. International Plant 
-& Animal Genome Conference XXVI, San Diego, CA, January 13–17. (International Meeting; 
+differentiation, in sky-island populations of southwestern white pine. [International Plant 
+& Animal Genome Conference XXVI](http://intlpag.org), San Diego, CA, January 13–17. (International Meeting; 
 Poster Presentation) 
 <!-- * 23 * --> 
 
@@ -27,51 +27,51 @@ Poster Presentation)
 
 <!--22. -->**Bagley JC**, Aquino PPU, Hrbek T, Hernandez S, Langeani F, Colli GR (2017) Using ddRAD-
 seq phylogeography to test for genetic effects of headwater river capture in suckermouth 
-armored catfish (Loricariidae: Hypostomus) from the central Brazilian Shield. Evolution 
-Meeting 2017, Portland, OR, June 23–27. (International Meeting; Oral Presentation) 
+armored catfish (Loricariidae: Hypostomus) from the central Brazilian Shield. [Evolution 
+Meeting 2017](https://www.evolutionmeetings.org/previous-meetings.html), Portland, OR, June 23–27. (International Meeting; Oral Presentation) 
 <!-- * 22 * --> 
 
 <!--21. -->**Bagley JC**, Menon MG, Friedline C, Whipple A, Schoettle A, Sáenz ALG, Wehenkel CA, 
 McGarvey D, Flores-Rentería LH, Sniezko R, Cushman S, Waring K, Eckert AJ (2017) 
 Population genomics and paleoclimatic modeling support speciation with gene flow, not 
 genomic islands of differentiation, in sky-island populations of southwestern white pine. 
-Evolution Meeting 2017, Portland, OR, June 23–27. (International Meeting; Poster 
+[Evolution Meeting 2017](https://www.evolutionmeetings.org/previous-meetings.html), Portland, OR, June 23–27. (International Meeting; Poster 
 Presentation) 
 <!-- * 21 * --> 
 
 <!--20. -->Menon MG, **Bagley JC**, Friedline C, Whipple A, Schoettle A, Sáenz ALG, Wehenkel CA, 
 McGarvey D, Flores-Rentería LH, Sniezko R, Cushman S, Waring K, Eckert AJ (2017) What’s in 
-a name? Ecological speciation in southwestern white pine. Evolution Meeting 2017, 
+a name? Ecological speciation in southwestern white pine. [Evolution Meeting 2017](https://www.evolutionmeetings.org/previous-meetings.html), 
 Portland, OR, June 23–27. (International Meeting; Oral Presentation) 
 <!-- * 20 * --> 
 
 <!--19. -->Ferrari TBU, Breitman MF, Domingos F, Wiederhecker HC, **Bagley JC**, de Mello R, de Lima 
 TG, Colli G (2017) Taxonomia integrative e delimitação de espécies no Cerrado: uma 
-nova espécie de _Enyalius_ (Squamata: Leiosauridae) endemic do bioma. VIII Congresso 
-Brasileiro de Herpetologia, Mato Grosso, Brazil. (National Meeting; Abstract + Oral 
+nova espécie de _Enyalius_ (Squamata: Leiosauridae) endemic do bioma. [VIII Congresso 
+Brasileiro de Herpetologia](http://8cbh.herpeto.org), Mato Grosso, Brazil. (National Meeting; Abstract + Oral 
 Presentation) 
 <!-- * 19 * --> 
 
-<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, **Bagley J**, Colli G (2017) Next-Generation 
+<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, Bagley J, Colli G (2017) Next-Generation 
 Teaching: ensinando ao pesquisar taxonomia integrative beneficia estudantes e professores. 
-VIII Congresso Brasileiro de Herpetologia. (National Meeting; Abstract + Oral 
+[VIII Congresso Brasileiro de Herpetologia](http://8cbh.herpeto.org). (National Meeting; Abstract + Oral 
 Presentation) 
 <!-- * 18 * --> 
 
 ###  2015 
 
 <!--17. -->Aquino PPU, **Bagley JC**, Couto TBA, Figueira-Soares YFU (2015) Sinal biogeográfico de 
-cap- tura de cabeceira: primeiro registro de _Phalloceros harpagos_ Lucinda, 2008 
-(Cyprinodontiformes: Poeciliidae) em riachos da bacia do rio São Francisco. III Simpósio de 
-Zoologia Sistemática, UFMG Campus Pampulha, Belo Horizonte, Minas Gerais, 
+captura de cabeceira: primeiro registro de _Phalloceros harpagos_ Lucinda, 2008 
+(Cyprinodontiformes: Poeciliidae) em riachos da bacia do rio São Francisco. III Simpósio  
+de Zoologia Sistemática, UFMG Campus Pampulha, Belo Horizonte, Minas Gerais, 
 Brazil, December 16–20. (Regional Meeting; Abstract + Poster Presentation) 
 <!-- * 17 * --> 
 
 ###  2014 
 
 <!--16. -->Unmack PJ, **Bagley JC**, Davis A, Hammer MP, Adams M, Johnson JB (2014) Phylogeny, 
-biogeography and evolution of the temperate perches (Percichthyidae). Australian Society 
-for Fish Biology, Darwin Convention Center, Darwin, Northern Territory, Australia, June 
+biogeography and evolution of the temperate perches (Percichthyidae). [Australian Society 
+for Fish Biology meeting](http://www.asfb.org.au/events/), Darwin Convention Center, Darwin, Northern Territory, Australia, June 
 30–July 4. (National Meeting; Abstract + Poster Presentation) 
 <!-- * 16 * --> 
 
@@ -138,8 +138,6 @@ Poster Presentation)
 
 <!--6. -->**Bagley JC** (2009) Phylogenetic comparative analyses of body size and shape variation in 
 a diverse yet morphologically conservative clade of lungless salamanders (Plethodontidae: 
-
-
 _Desmognathus_). Department of Biology Ecolunch Seminar, Brigham Young University, Provo, 
 Utah, U.S.A., January 30. (Oral Presentation) 
 <!-- * 6 * --> 
@@ -153,7 +151,7 @@ Meeting; Ab- stract + Poster Presentation)
 <!-- * 5 * --> 
 
 <!--4. -->**Bagley JC** (2008) Polyphyly, hybridization and cryptic biodiversity among _Micropterus_. 
-Desert Fishes Council Meeting, Cuatro Ci ́enegas, Mexico, November. (Annual Meeting; Abstract 
+Desert Fishes Council Meeting, Cuatro Ciénegas, Mexico, November. (Annual Meeting; Abstract 
 + Oral Presentation) 
 <!-- * 4 * --> 
 
