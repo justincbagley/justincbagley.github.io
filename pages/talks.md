@@ -106,7 +106,7 @@ Meeting; Poster presentation)
 
 <!--11. -->**Bagley JC** (2012) Integrative comparative phylogeographical approaches to understanding 
 evolutionary diversification in Central American freshwater fishes. São Paulo School for 
-Advanced Science-Evolution (SPSAS-_evo_), Ilhabela, Brazil, August 19–31. (International 
+Advanced Science-Evolution (SPSAS\-_evo_), Ilhabela, Brazil, August 19–31. (International 
 Work- shop; Poster Presentation) 
 <!-- * 11 * --> 
 
