@@ -25,22 +25,14 @@ tags:
 [LaTeX](https://www.latex-project.org) is a very powerful document preparation and typesetting system that provides an accessible means for the programming-minded user to prepare beautiful scientific documents of all kinds, including manuscripts, software documentation, theses and dissertations, etc. Because documents typeset in LaTeX exhibit a high degree of professionalism in their design, while also rendering computer- and math-related characters extremely well, LaTeX has become widely used in many fields of science, and in the academe in general. By using a markup language similar to HTML, and which is non-WYSIWYG (What You See Is What You Get), LaTeX provides the user with tremendous control and flexibility in document design during the writing process. A commonly touted benefit is to, ["...leave document design to document designers, and to let authors get on with writing documents."](https://www.latex-project.org/about/)
 
 
-
-
 I got interested in LaTeX as a way of creating more professional documents for preprint and final manuscript submissions to servers/journals. This post describes some of my recent experiences while teaching myself LaTeX _over the weekend_.
-
-
 
 
 Let me start by saying that my intuition at the outset was that I was *not* ready to switch from writing manuscripts in Word to writing a document from scratch--i.e. generating the content of a document itself--within a LaTeX editor like [TeXShop](http://pages.uoregon.edu/koch/texshop/) or [Texmaker](http://www.xm1math.net/texmaker/). The latter simply does not hold the same degree of appeal to me as doing so in a WYSIWYG processor like Word, and I just wasn't ready to make that big of a jump. So, my idea was to start from a scientific manuscript prepared in Word and convert it into LaTeX, with the goal being to learn to improve the design of my final manuscript in LaTeX, i.e. to learn to present my previously generated content in LaTeX with appropriate formatting before final rendering to PDF. ("But perhaps I'll like it and write only in LaTeX in the future though", I thought.) 
 
 
 
-
 #### Dependencies
-
-
-
 
 Software this post is based on: [Pandoc v1.19.2.1](http://pandoc.org/index.html), [TexShop v3.85](http://pages.uoregon.edu/koch/texshop/index.html), [TextWrangler v4.5.12](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12)...
 
@@ -48,9 +40,6 @@ Software this post is based on: [Pandoc v1.19.2.1](http://pandoc.org/index.html)
 
 
 #### STEP #1: Word to LaTeX
-
-
-
 
 Since I already had Pandoc installed locally, I started from a .docx file containing the final submission draft of one of my recent papers. I opened [Terminal](https://en.wikipedia.org/wiki/Terminal_(macOS)) (my preferred command line interface on Mac) and there I used Pandoc to convert this file from .docx to LaTeX (.tex) format using a basic/default command, with no special options, as follows:
 
@@ -60,7 +49,6 @@ After doing this, I opened the resulting .tex document in TextWrangler and resav
 
 
 #### STEP #2 – _n_: Editing and Typesetting in TexShop
-
 
 Next, I opened the .tex doc in TexShop. I tried to typeset to PDF in TexShop, but of course things failed "out of the box" several times. The keyboard shortcut for typesetting your tex doc in TexShop is Command-T; I pressed this several times during my initial attempts. Typesetting failed once due to an erroneous/problematic "Â" character that somehow got added by Pandoc and screwed things up at one point in the manuscript, and a second time due to a UTF-8 command passed to a package called 'inputenc'. I fixed the latter error by simply commenting out the problematic line from the .tex file. The line I commented out was within the first 10 lines of the document and looked like this:
 
@@ -81,7 +69,7 @@ To make a long story short (_I couldn't go through all the changes that I made, 
 
 Through _many additional edits to the document_, **I came up with the following preamble-title page template, which I will probably continue to modify, but you can feel free to start from when making a .tex file for any double-spaced, 12 pt font manuscript:**
 
-
+```
      \documentclass[12pt]{article}
      \usepackage{graphicx}
      \usepackage{lmodern}
@@ -184,32 +172,23 @@ Through _many additional edits to the document_, **I came up with the following 
      \vspace{5mm} %5mm vertical space
      
      \end{document}
+```
 
 
 **This code contains the preamble and title page for the manuscript ("\end{document}" is added only to round out document structure, so that this code can be copied and pasted into TexShop and rendered). Aside from double spacing and appropriate font size, this setup also causes pages to be numbered and the manuscript to have continuous line numbering throughout, consistent with the required or preferred format of many journals. To use this, all you need to do is copy and paste it in place of the top/preamble section of your manuscript .tex document, then change the uppercase "pothole_case" labels (e.g. "FIRST\_AUTHOR_EMAIL") to the relevant content for your paper.** Here, backslashes are only present in the labels to escape the underscore characters. You can see the "inputenc" line that I commented out at line 10. Right after this, you could add a page break ("\break") and then enter your Abstract, and so on.
 
 
-
-
 **Here is a screenshot of the rendered Preamble-Title Page Template:**
-
-
 
 
 ![](http://www.justinbagley.org/wp-content/uploads/2017/09/Preamble-Title_Page_Template_screenshot.png)
 
 
-
-
 ##### Example Table Format Using "longtable"
-
-
-
 
 I discovered that, when you convert a Word document to LaTeX using Pandoc, the default table format it spits out is that using the "longtable" environment. There are other ways of making tables in LaTeX, e.g. using "tabular" or "tabularx" environments, that seem to be better suited for some things, and perhaps more popular. However, longtable is probably used as the default because, when tables span multiple pages (be vertically long), it prints the column headings on each page, which can be nice. You can find other examples [online](http://users.sdsc.edu/~ssmallen/latex/longtable.html), but here is an example showing a partial table from my paper, using longtable:
 
-
-
+```
      \singlespacing
      \footnotesize%%%%%%%%%%%  smaller font size %%%%%%%%
      \begin{longtable}[]{@{}llll@{}}
@@ -241,13 +220,13 @@ I discovered that, when you convert a Word document to LaTeX using Pandoc, the d
      \doublespacing
      bp, nucleotide base pairs.
      %%%\end{landscape}
+```
 
 
 **Here is a screenshot of the rendered table:**
 
-
 ![](http://www.justinbagley.org/wp-content/uploads/2017/09/Example_Table_Format_screenshot.png)
 
-
 _That's all for now! More later when I have time!_
+
 ~J
