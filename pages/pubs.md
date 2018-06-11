@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: pubs
 description: Justin C. Bagley's publications
 ---
 
