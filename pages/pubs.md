@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: pubs
 description: Justin C. Bagley's publications
 ---
 
@@ -194,4 +194,4 @@ doi: 10.11646/zootaxa.4196.3.9.
 
 ### <a name="editorials"></a>editorials and letters
 
-
+[coming soon.]
