@@ -15,7 +15,7 @@ and plants in North America and the Neotropics; developer of [PIrANHA](https://g
 and phylogenomic datasets.
 
 After receiving his BS and MSc degrees in [Biology](https://bsc.ua.edu) from The University of 
-Alabama in 2004 and 2004, respectively, he received his PhD in [Integrative Biology](http://biology.byu.edu) 
+Alabama in 2004 and 2008, respectively, he received his PhD in [Integrative Biology](http://biology.byu.edu) 
 in 2014, from Brigham Young University (BYU) for his work on comparative phylogeography 
 and species delimitation in Central American freshwater fishes for his work under PhD advisor [Jerry Johnson](https://lifesciences.byu.edu/Directories/FacultyStaff/ctl/FacultyProfile/mid/5712/NetID/jbj59).
 He was a postdoctoral fellow with [Francisco Langeani]() and [Guarino Colli](https://www.researchgate.net/profile/Guarino_Colli) and 
