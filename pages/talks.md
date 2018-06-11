@@ -52,7 +52,7 @@ Brasileiro de Herpetologia, Mato Grosso, Brazil. (National Meeting; Abstract + O
 Presentation) 
 <!-- * 19 * --> 
 
-<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, Bagley J, Colli G (2017) Next-Generation 
+<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, **Bagley J**, Colli G (2017) Next-Generation 
 Teaching: ensinando ao pesquisar taxonomia integrative beneficia estudantes e professores. 
 VIII Congresso Brasileiro de Herpetologia. (National Meeting; Abstract + Oral 
 Presentation) 
@@ -62,8 +62,8 @@ Presentation)
 
 <!--17. -->Aquino PPU, **Bagley JC**, Couto TBA, Figueira-Soares YFU (2015) Sinal biogeográfico de 
 cap- tura de cabeceira: primeiro registro de _Phalloceros harpagos_ Lucinda, 2008 
-(Cyprinodontiformes: Poeciliidae) em riachos da bacia do rio São Francisco. III Simpósio  
-de Zoologia Sistemática, UFMG Campus Pampulha, Belo Horizonte, Minas Gerais, 
+(Cyprinodontiformes: Poeciliidae) em riachos da bacia do rio São Francisco. III Simpósio de 
+Zoologia Sistemática, UFMG Campus Pampulha, Belo Horizonte, Minas Gerais, 
 Brazil, December 16–20. (Regional Meeting; Abstract + Poster Presentation) 
 <!-- * 17 * --> 
 
