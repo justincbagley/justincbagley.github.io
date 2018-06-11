@@ -147,12 +147,11 @@ Utah, U.S.A., January 30. (Oral Presentation)
 <!--5. -->**Bagley JC**, Brummer T, Nay L, Johnson JB (2008) Phylogeography, geometric morphometrics, 
 and life history variation of _Alfaro cultratus_ (Cyprinodontiformes: Poeciliidae) from 
 Costa Rica. Desert Fishes Council Meeting, Cuatro Ciénegas, Mexico, November. (Annual 
-Meeting; Ab- stract + Poster Presentation) 
+Meeting; Abstract + Poster Presentation) 
 <!-- * 5 * --> 
 
 <!--4. -->**Bagley JC** (2008) Polyphyly, hybridization and cryptic biodiversity among _Micropterus_. 
-Desert Fishes Council Meeting, Cuatro Ciénegas, Mexico, November. (Annual Meeting; Abstract 
-+ Oral Presentation) 
+Desert Fishes Council Meeting, Cuatro Ciénegas, Mexico, November. (Annual Meeting; Abstract + Oral Presentation) 
 <!-- * 4 * --> 
 
 <!--3. -->**Bagley JC** (2008) A new molecular phylogeny of the black basses, _Micropterus_ 
