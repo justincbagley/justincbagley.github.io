@@ -8,7 +8,8 @@ location:
 ---
 
 Justin C. Bagley is a Postdoctoral Scholar in the [Department of Biology](https://biology.vcu.edu)
-at Virginia Commonwealth University; researcher in ecological and evolutionary genetics of animals
+at Virginia Commonwealth University; Senior Research Associate in the [Departamento de Zoologia](https://zoo.unb.br) 
+at Universidade de Brasília; researcher in ecological and evolutionary genetics of animals
 and plants in North America and the Neotropics; developer of [PIrANHA](https://github.com/justincbagley/PIrANHA), 
 [RADish](https://github.com/justincbagley/RADish), and other repositories for analyzing population genomic
 and phylogenomic datasets.
@@ -67,8 +68,8 @@ _Proceedings of the Royal Society B_, and a dozen other journals in ecology and 
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/cscVubOE_400x400.jpg">
-            <img src="../assets/pics/cscVubOE_400x400.jpg"
+        <a href="../assets/pics/IMG_9435_crop1_shadowborder.jpg">
+            <img src="../assets/pics/IMG_9435_crop1_shadowborder.jpg"
                   title="Justin C. Bagley" alt="Justin C. Bagley"/></a>
         </div>
     </div>
