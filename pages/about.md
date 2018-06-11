@@ -68,5 +68,14 @@ _Proceedings of the Royal Society B_, and a dozen other journals in ecology and 
             <img src="../assets/pics/cscVubOE_400x400.jpg"
                   title="Justin C. Bagley" alt="Justin C. Bagley"/></a>
         </div>
+
+        <div class="span2">
+        {% google_map
+           zoom="10"
+           latitude="37.544825"
+           longitude="-77.455069"
+           marker_title="Department of Biology"
+           marker_url="https://biology.vcu.edu" %}
+        </div>
     </div>
 </div>
