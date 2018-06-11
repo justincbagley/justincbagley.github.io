@@ -76,4 +76,4 @@ _Proceedings of the Royal Society B_, and a dozen other journals in ecology and 
 
 ---
 
-{% google_map %}
+<!-- {% google_map %} -->
