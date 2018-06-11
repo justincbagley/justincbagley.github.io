@@ -2,6 +2,9 @@
 layout: page
 title: about
 description: Justin C. Bagley is an evolutionary biologist and postdoctoral researcher at Virginia Commonwealth University interested in using and developing genetics-driven approaches (among others) and computational tools (bioinformatics scripts/pipelines) to understand processes shaping the diversity, distributions, and adaptive evolution of species through space and time. 
+location:
+   latitude="37.544825"
+   longitude="-77.455069"
 ---
 
 Justin C. Bagley is a Postdoctoral Scholar in the [Department of Biology](https://biology.vcu.edu)
@@ -79,3 +82,5 @@ _Proceedings of the Royal Society B_, and a dozen other journals in ecology and 
         </div>
     </div>
 </div>
+
+{% google_map %}
