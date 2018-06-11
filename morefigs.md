@@ -1,15 +1,15 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Justin C. Bagley
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Bagley_CV_May152018.pdf">cv</a></li>
+          <li><a href="https://github.com/justincbagley">github</a></li>
+          <li><a href="https://justinbagley.org/blog">blog</a></li>
+          <li><a href="https://twitter.com/justincbagley">@justincbagley</a></li>
       </ul>
   </div>
 </div>
