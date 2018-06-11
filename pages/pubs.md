@@ -53,7 +53,7 @@ strobiformis_, and limber pine, _P. flexilis_.
 <!-- * 14 * -->
  
 Breitman MF, Domingos FMCB, **Bagley JC**, Wiederhecker HC, Ferrari TB, Cavalcante VHGL, 
-et al. (accepted) New species of _Enyalius_ (Squamata: Leiosauridae) endemic to the 
+et al. (_accepted_) New species of _Enyalius_ (Squamata: Leiosauridae) endemic to the 
 Brazilian Cerrado, with comments on how to improve the practice of taxonomy. 
 [Herpetologica](http://www.hljournals.org).
 <!-- * 13 * -->
