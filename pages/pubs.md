@@ -156,14 +156,15 @@ _Micropterus_). [Biological Journal of the Linnean Society](https://onlinelibrar
 
 ### <a name="chapters"></a>proceedings and book chapters
 
-Johnson JB, Bagley JC (2011) Ecological drivers of life-history evolution. In: Ecology and 
+Johnson JB, **Bagley JC** (2011) Ecological drivers of life-history evolution. In: Ecology and 
 evolution of poeciliid fishes. (eds Evans JP, Pilastro A, Schlupp I), pp. 38-49. University 
-of Chicago Press, Chicago, IL. ISBN-10: 0226222748. Buy Book on Amazon 
-(NOTE: This chapter was peer-reviewed.) pdficon_small
+of Chicago Press, Chicago, IL. ISBN-10: 0226222748. (NOTE: This chapter was peer-reviewed.) 
+[Book](http://press.uchicago.edu/ucp/books/book/chicago/E/bo11124183.html)
+[![pdf](icons16/pdf-icon.png)](http://www.academia.edu/download/32211231/Johnson_Bagley_2011_Ecological_drivers_of_life-history_divergence_Ch4.pdf)
 <!-- * 3 * -->
 
-Thompson M, Bagley JC, Rasco J, Lackey K, Cox M (2007) The Respiratory System. In: Biology: 
-The Study of Life (eds Rasco J, Lackey K) Kendall/Hunt Publishing. ISBN-10: 0757556434
+Thompson M, **Bagley** JC, Rasco J, Lackey K, Cox M (2007) The Respiratory System. In: Biology: 
+The Study of Life (eds Rasco J, Lackey K) Kendall/Hunt Publishing. ISBN-10: 0757556434.
 <!-- * 2 * -->
 
 
@@ -173,7 +174,7 @@ The Study of Life (eds Rasco J, Lackey K) Kendall/Hunt Publishing. ISBN-10: 0757
 **Bagley JC** (2014) Understanding the diversification of Central American freshwater fishes 
 using comparative phylogeography and species delimitation. PhD dissertation, Department of 
 Biology, Brigham Young University, Provo, UT.
-[![Abstract](icons16/pubmed-icon.png)](https://scholarsarchive.byu.edu/etd/5296/)
+[Abstract](https://scholarsarchive.byu.edu/etd/5296/)
 [![pdf (653k)](icons16/pdf-icon.png)](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6295&context=etd)
 
 
