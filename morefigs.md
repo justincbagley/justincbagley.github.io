@@ -35,7 +35,7 @@ title: Justin C. Bagley
   </td>
   <td class="right">
     <a href="">
-        <img src="assets/bigpublpics/p_strobiformis5.jpg" alt="Southwestern white pine (Pinus strobiformis)" title="Southwestern white pine (Pinus strobiformis)"/>
+        <img src="assets/bigpublpics/p_strobiformis5.jpg" alt="Southwestern white pine (Pinus strobiformis)" title="Southwestern white pine (Pinus strobiformis)" height="450"/>
     </a>
   </td>
 </tr>
