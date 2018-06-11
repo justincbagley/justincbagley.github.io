@@ -24,17 +24,12 @@ in the capital of Brazil, 2015&ndash;2017. In 2017, he moved to [Virginia Common
 where he is now a Postdoctoral Scholar in [Andrew Eckert's](LINK) Plant Evolutionary Genetics Laboratory.
 
 Justin is an evolutionary biologist focusing on problems in molecular ecology and biodiversity 
-science from the perspectives of genetics and genomics &ndash; particularly the analysis of 
-genome-wide SNP data to understand patterns and processes of evolutionary diversification. A key 
-area of research integrated with all other projects is 'phylogeography', which 
-presents an extensive toolkit that Justin integrates with data and tools for studying speciation, 
-adaptation (e.g. environmental association genetics), and hybridization. Organismally 
-his training has largely focused on teleost freshwater fishes; however, recently he has been 
-focusing on studying population structure, adaptation, and ecological speciation in North American 
-and South American forest trees including [southwestern white pine](https://en.wikipedia.org/wiki/Pinus_strobiformis) 
-and [quaking aspen](https://en.wikipedia.org/wiki/Populus_tremuloides). Justin has also focused the 
-last couple of years on developing practical open-source code and bioinformatics pipelines for 
-analyzing genome-wide SNP data from ddRADseq and GBS experimentsusing NGS on reduced genome libraries.
+science from genomic and integrative (genetic + phenotypic) perspectives &ndash; particularly 
+through using genome-wide SNP data to understand how historical and ecological processes 
+shape the spatial and temporal distributions of biodiversity in freshwater and terrestrial 
+environments. Current projects focus on studying molecular phylogeography, speciation, and local 
+adaptation using North American and Neotropical freshwater fishes and forest tree species and 
+communities as model systems. 
 
 Justin is a reviewer for _Molecular Ecology_, _Molecular Phylogenetics and Evolution_, _PeerJ_, 
 _Proceedings of the Royal Society B_, and a dozen other journals in ecology and evolutionary biology.
