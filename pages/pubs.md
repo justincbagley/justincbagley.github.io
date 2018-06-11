@@ -5,14 +5,14 @@ description: Justin C. Bagley's publications
 ---
 
 To download the publications below, click on the Adobe PDF logo following each reference 
-and obtain PDF files from my ResearchGate profile.  However, to comply with copyright laws, 
-I ask that you please limit the use of PDF files to printing of single copies for personal 
-research and study, and do not modify the files in any way or use them for commercial 
-purposes.
+and obtain PDF files from the publisher's website or my ResearchGate profile.  However, 
+to comply with copyright laws, I ask that you please limit the use of PDF files to printing 
+of single copies for personal research and study, and do not modify the files in any way or 
+use them for commercial purposes.
 
 Thanks. ~ J
 
-Follow this link to see my [Google Scholar Citations]().
+Follow this link to see my [Google Scholar Citations](https://scholar.google.com/citations?user=H9FM85AAAAAJ&hl=en).
 
 <div class="navbar">
     <div class="navbar-inner">
