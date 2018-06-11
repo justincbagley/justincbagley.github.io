@@ -69,7 +69,7 @@ To make a long story short (_I couldn't go through all the changes that I made, 
 
 Through _many additional edits to the document_, **I came up with the following preamble-title page template, which I will probably continue to modify, but you can feel free to start from when making a .tex file for any double-spaced, 12 pt font manuscript:**
 
-```
+ {% raw %}
      \documentclass[12pt]{article}
      \usepackage{graphicx}
      \usepackage{lmodern}
@@ -172,7 +172,7 @@ Through _many additional edits to the document_, **I came up with the following 
      \vspace{5mm} %5mm vertical space
      
      \end{document}
-```
+ {% endraw %}
 
 
 **This code contains the preamble and title page for the manuscript ("\end{document}" is added only to round out document structure, so that this code can be copied and pasted into TexShop and rendered). Aside from double spacing and appropriate font size, this setup also causes pages to be numbered and the manuscript to have continuous line numbering throughout, consistent with the required or preferred format of many journals. To use this, all you need to do is copy and paste it in place of the top/preamble section of your manuscript .tex document, then change the uppercase "pothole_case" labels (e.g. "FIRST\_AUTHOR_EMAIL") to the relevant content for your paper.** Here, backslashes are only present in the labels to escape the underscore characters. You can see the "inputenc" line that I commented out at line 10. Right after this, you could add a page break ("\break") and then enter your Abstract, and so on.
