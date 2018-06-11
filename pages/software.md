@@ -20,7 +20,7 @@ description: Justin C. Bagley's software
 
 Scripts for file processing and analysis in phylogenetics and phylogeography.
 
-**NOTE* This software repository, despite several minor-version releases, is still under 
+**NOTE** This software repository, despite several minor-version releases, is still under 
 development with the first major-version release expected sometime later this year.
 
 ---
