@@ -18,24 +18,24 @@ title: Justin C. Bagley
 <tr>
   <td class="left">
     <a href="">
-        <img src="assets/publpics/rqtlexper_fig1.png" alt="Broman (2014) Fig 1" title="Broman (2014) Fig 1"/>
+        <img src="assets/publpics/bayenv2_final_vcv_mat.png" alt="Bayenv2 var-covariance matrix" title="Bayenv2 var-covariance matrix"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/rqtlexper_fig2.html">
-        <img src="assets/publpics/rqtlexper_fig2.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+    <a href="">
+        <img src="assets/publpics/bayenv2_matrix_convergence.png" alt="Bayenv2 matrix convergence" title="Bayenv2 matrix convergence"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/phyloqtl_fig6.html">
-        <img src="assets/publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
+    <a href="">
+        <img src="assets/bigpublpics/p_strobiformis3.jpg" alt="Southwestern white pine (Pinus strobiformis)" title="Southwestern white pine (Pinus strobiformis)"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/phyloqtl_fig2.html">
-        <img src="assets/publpics/phyloqtl_fig2.png" alt="Broman et al. (2012) Fig 2" title="Broman et al. (2012) Fig 2"/>
+    <a href="">
+        <img src="assets/bigpublpics/p_strobiformis5.jpg" alt="Southwestern white pine (Pinus strobiformis)" title="Southwestern white pine (Pinus strobiformis)"/>
     </a>
   </td>
 </tr>
