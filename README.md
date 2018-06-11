@@ -1,4 +1,4 @@
-## Justin Bagley&rsquo;s website
+## Justin C. Bagley&rsquo;s website
 
 See [justincbagley.github.io](https://justincbagley.github.io).
 
