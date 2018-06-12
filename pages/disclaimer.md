@@ -3,8 +3,7 @@ author: justin
 comments: false
 date: 2018-06-12 04:44:21+00:00
 layout: page
-<!--link: http://www.justinbagley.org/justinbagley-org-disclaimer-->
-<!--slug: justinbagley-org-disclaimer-->
+link: https://github.com/justincbagley/justincbagley.github.io/blob/master/pages/disclaimer.md
 title: Disclaimer
 ---
 
