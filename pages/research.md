@@ -80,7 +80,7 @@ Here is a more in-depth look at my _prior_ research in [phylogeography](../pages
     <img src="../assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="350"/>
   </td>
   <td class="right">
-    <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="350"/>
+    <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="400"/>
   </td>
 </tr>
 </table>
@@ -110,7 +110,7 @@ projects expanding my speciation and adaptation work along these two avenues of 
 
 ### <a name="systemat"></a>systematics, phylogenomics, & species delimitation
 
-<img src="../assets/pics/catostomidae_pi_profiling_over_mcc_tree.png" title="Catostomidae phylogenetic informativeness" alt="Catostomidae phylogenetic informativeness" width="400"></img>
+<img src="../assets/pics/catostomidae_pi_profiling_over_mcc_tree.png" title="Catostomidae phylogenetic informativeness" alt="Catostomidae phylogenetic informativeness" width="400"/>
 
 My research in systematics and taxonomy primarily focuses on discovering and determining 
 evolutionary relationships among species, and clarifying species limits, through analyses 
