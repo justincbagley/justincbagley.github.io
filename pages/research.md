@@ -4,7 +4,8 @@ title: research
 description: Justin C. Bagley's research
 ---
 
-<a name="top"></a><div class="navbar">
+<a name="top"></a>
+<div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#phylogeog">phylogeography</a></li>
