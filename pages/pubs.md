@@ -5,8 +5,7 @@ description: Justin C. Bagley's publications
 ---
 
 To download the publications below, click on the Adobe PDF logo following each reference 
-and obtain PDF files from the publisher's website or my ResearchGate profile.  However, 
-to comply with copyright laws, I ask that you please limit the use of PDF files to printing 
+and obtain PDF files from the publisher's website or my [ResearchGate profile](https://www.researchgate.net/profile/Justin_Bagley2).  However, to comply with copyright laws, I ask that you please limit the use of PDF files to printing 
 of single copies for personal research and study, and do not modify the files in any way or 
 use them for commercial purposes.
 
