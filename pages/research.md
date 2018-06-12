@@ -9,6 +9,7 @@ description: Justin C. Bagley's research
         <ul class="nav">
             <li><a href="#phylogeog">phylogeography</a></li>
             <li><a href="#specadapt">speciation & adaptation</a></li>
+            <li><a href="#systemat">systematics</a></li>
             <li><a href="#software">bioinformatics</a></li>
             <li><a href="#thesis">dissertation</a></li>
 <!--            <li><a href="#evolgen">evolutionary genetics</a></li>  -->
@@ -41,41 +42,74 @@ trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
 and Brazilian Cerrado biodiversity 'hotspots'.
 
-_Click on the lower navigation bar above to quickly access different topics._
+**_Click on the lower navigation bar above to quickly access different topics._**
 
-## <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
+### <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
 
-  <a href="phylogeog.md" name="phylogeog">
-    <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
-  </a>
+<img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="350"/>
 
 **Phylogeography**, the study of the geographical distributions of genetic lineages within and 
 among closely related species, has assumed a central role in molecular ecology for inferring 
-historical and ecological processes influencing species distributions and genetic diversity. 
-Along with collaborators from throughout the U.S. and Brazil, I have been involved in a number 
-of projects using this approach, in single-species and comparative (multispecies) contexts, 
-to improve our understanding of diversification in North American and Neotropical species 
-assemblages.   
+the historical and ecological processes influencing present-day biodiversity patterns. Along 
+with collaborators from the U.S., Brazil, and Mexico, I have been involved in a number 
+of projects using single-species and comparative (multispecies) phylogeography approaches 
+to improve our understanding of the diversification, stability, and assembly of North American 
+and Neotropical biotic communities. This work currently focuses on three intriguing systems 
+that present different contexts for understanding evolutionary processes: 1) North American 
+forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central America) and 
+3) Brazilian Cerrado biodiversity 'hotspots'. 
 
 ---
 
 ### <a name="specadapt"></a>genomics of speciation & local adaptation, with implications for climate change
 
-Understanding where and how barriers to gene flow arise, and new species boundaries are formed 
-and maintained, is a central goal of evolutionary biology. The study of this general process, or 
-'speciation', presents numerous challenges and requires integrative perspectives taking into 
-account geographical factors (biogeography) and range dynamics, niche evolution, as well as
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="index.md">
+        <img src="../assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="350"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="index.md">
+        <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="350"/>
+    </a>
+  </td>
+</tr>
+<tr>
+</table>
+<!-- swwp_fig5_dem.png -->
+
+Understanding how barriers to gene flow arise, and new species boundaries are formed and 
+maintained, is a central goal of evolutionary biology. Yet, the study of 'speciation', presents 
+numerous challenges and requires integrative perspectives taking into account geographical 
+factors (biogeography) and range dynamics, niche evolution, reproductive isolation, as well as 
 the evolution of neutral and adaptive genetic variation in the context of demographic history. 
-I have become interested in the different ways in which plant versus animal systems can reveal 
-different aspects of the speciation
+I have become interested in the ways in which plant versus animal systems can reveal different 
+aspects of the speciation process. Our current projects on southwestern white pine (_Pinus
+strobiformis_) highlight the role of hybridization and extrinsic factors during ecological 
+speciation, and we are also using genome scan and environmental association analyses to understand 
+local adaptation to climatic gradients and challenging environments (high elevation) in this 
+system, with important implications for understanding tree responses to climate change. 
+By contrast, some Neotropical fish lineages that I have studied (e.g. livebearers) are more 
+predisposed to speciation through intrinsic pre- or postmating isolation, and exhibit presumed 
+niche conservatism but a high degree of phenotypic variation. I am eager to develop future 
+projects expanding on these two avenues of research.
+
+---
+
+### <a name="systemat"></a>systematics, phylogenomics, & species delimitation
+
+[coming soon.]
 
 ---
 
 ### <a name="software"></a>code & bioinformatics pipelines
 
-The rapid growth of high-throughput sequencing technologies and their use in molecular ecology 
+<!-- The rapid growth of high-throughput sequencing technologies and their use in molecular ecology 
 has precipitated a need for practical code and software solutions to the challenges presented by 
-the ensuing deluge of genome-wide DNA sequence data.
+the resulting deluge of genome-wide DNA sequence data. -->
+[coming soon.]
 
 ---
 
