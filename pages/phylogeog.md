@@ -12,9 +12,8 @@ wordpress_id: 659
 ## **What is phylogeography?**
 
 <blockquote>"[G]eology and biogeography are both parts of natural history and, if they represent the independent and dependent variables respectively in a cause and effect relationship, … they can be reciprocally illuminating" (Rosen 1978, p. 776).
-
-"[C]omparative phylogeographic assessments within each of multiple codistributed species … offer perhaps the greatest hope for significant advances in understanding how … the demographic and natural histories of populations, can influence intraspecific phylogeographic patterns" (Avise 1998, pp. 376-377).
- 
+</blockquote>
+<blockquote>"[C]omparative phylogeographic assessments within each of multiple codistributed species … offer perhaps the greatest hope for significant advances in understanding how … the demographic and natural histories of populations, can influence intraspecific phylogeographic patterns" (Avise 1998, pp. 376-377). 
 </blockquote>
 
 In the past, molecular biology informed the methods of population genetics, while biogeographers operated independently of these fields.  However, since the 20th Century molecular genetics revolution in systematics and population genetics, it is the tools of these fields that dictate methods for analyzing genetic data from natural populations, and this in turn has sparked a new field of ‘molecular biogeography.’  The growth of the ‘new’ biogeography is widely acknowledged to have particularly benefited from the rapid development of [phylogeography](http://en.wikipedia.org/wiki/Phylogeography). Yet, what is phylogeography?
