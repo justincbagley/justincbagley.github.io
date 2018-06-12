@@ -48,9 +48,8 @@ Click on research topics below to learn more.
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="index.md">
-        Hello
-        <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="450"/>
+    ## <a href="phylogeog.md" name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
+        <img src="aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
     </a>
   </td>
   <td class="right">
