@@ -49,13 +49,13 @@ Click on research topics below to learn more.
 <tr>
   <td class="left">
     ## <a href="phylogeog.md" name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
-        <img src="assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
+        <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
     </a>
   </td>
   <td class="right">
     <a href="index.md">
         there
-        <img src="assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="450"/>
+        <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="450"/>
     </a>
   </td>
 </tr>
@@ -63,12 +63,12 @@ Click on research topics below to learn more.
   <td class="left">
     <a href="index.md">
         everybody
-        <img src="assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig" width="450"/>
+        <img src="../assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig" width="450"/>
     </a>
   </td>
   <td class="right">
     <a href="index.md">
-        <img src="assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example" width="450"/>
+        <img src="../assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example" width="450"/>
     </a>
   </td>
 </tr>
@@ -81,6 +81,6 @@ Click on research topics below to learn more.
 ---
 ### <a name="thesis"></a>PhD dissertation research
 
-Clustering using Gaussian mixture modeling for species delimitation and classification.
+[coming soon.]
 
 ---
