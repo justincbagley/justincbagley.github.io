@@ -9,7 +9,8 @@ title: Teaching Resources
 wordpress_id: 195
 ---
 
-_**Resources for Developing Lecture Courses**_  
+### Resources for Developing Lecture Courses
+
 Everyone wants to "design smart lectures."  Here are links to some nice short videos from the University of Minnesota Center for Teaching and Learning (CTL) Mini Workshop on designing lectures that can help us do this: video set 1 - [Examples](http://www1.umn.edu/ohr/teachlearn/tutorials/lectures/video1/index.html), video set 2 - [Overview](http://www1.umn.edu/ohr/teachlearn/tutorials/lectures/video2/index.html) (to be watched in this order).  Requires Adobe Flash 6 plug-in.  While designing lectures, it is also important to understand the questions and objectives of education.  One way to develop your understanding of these topics is to read about [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom's_taxonomy) and be aware of ways to facilitate the highest levels of learning--analysis, synthesis, evaluation, and creation--in the classroom.
 
 [10 steps for building your first academic course](http://www.universityaffairs.ca/10-steps-to-build-your-first-academic-course.aspx)
@@ -21,7 +22,10 @@ Everyone wants to "design smart lectures."  Here are links to some nice short v
   * [Develop Your Course](https://www.cmu.edu/teaching/designteach/design/index.html)
   * [Teach Your Course](https://www.cmu.edu/teaching/designteach/teach/index.html)
 
-_**Active Learning Techniques**_  
+
+
+### Active Learning Techniques
+
 Since becoming a buzzword in education in the 1980s and 1990s, "active learning" remains a hot topic at all levels of educational literature and practice, being implemented in primary through university teaching.  Active learning essentially refers to any and all teaching methods that engage students to think about the material without passively listening to lecture (or multimedia) content.  Several research studies suggest that active learning is better than simply lecturing students, and many educators including the majority of university professors use active learning techniques as a more effective way of "guiding" students towards "learning goals".  Consistent with the immense popularity of active learning, there are numerous resources online that can help university professors design and implement active learning methods.  Here is a short list of links to resources that I have found and used thus far in my career.
 
 [Active Learning Techniques](http://ctl.byu.edu/teaching-tips/active-learning-techniques) at the Brigham Young University Center for Teaching and Learning (CTL)
@@ -32,7 +36,9 @@ Tips for [building interactivity](https://www.cmu.edu/teaching/designteach/desig
 
 The [Field-tested Learning Assessment Guide](http://www.flaguide.org) (FLAG) is also a great site to visit.  This website provides detailed information on a variety of active learning techniques, including concept mapping, minute papers, and portfolios.
 
-_**Useful resources for specific course types in the biological sciences**_
+
+
+### Useful resources for specific course types in the biological sciences
 
 _**Ecology course content and syllabi online**_
 
