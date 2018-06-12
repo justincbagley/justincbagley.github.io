@@ -49,7 +49,7 @@ Click on research topics below to learn more.
 <tr>
   <td class="left">
     ## <a href="phylogeog.md" name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
-        <img src="aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
+        <img src="assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
     </a>
   </td>
   <td class="right">
