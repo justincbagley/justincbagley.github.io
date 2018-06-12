@@ -44,6 +44,8 @@ and Brazilian Cerrado biodiversity 'hotspots'.
 
 **_Click on the lower navigation bar above to quickly access different topics below._**
 
+---
+
 ### <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
 
 <table class="wide">
