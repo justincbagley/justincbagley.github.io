@@ -66,7 +66,7 @@ that present different contexts for understanding evolutionary processes: 1) Nor
 forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central America) and 
 3) Brazilian Cerrado biodiversity 'hotspots'. 
 
-Here is a more in-depth look at my prior research in [phylogeography](pages/phylogeog.md).
+Here is a more in-depth look at my prior research in [phylogeography](/phylogeog.html).
 
 <font size="-1"><a href="#top">top</a></font>
 
