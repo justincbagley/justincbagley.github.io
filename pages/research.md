@@ -22,7 +22,7 @@ description: Justin C. Bagley's research
 
 I am interested in how historical and ecological processes act to shape the spatial and 
 temporal distributions of biodiversity in freshwater and terrestrial environments. Much of 
-my work has focused on **1)** using **molecular phylogeography** and species delimitation to better 
+my work has focused on **1)** using **molecular phylogeography and species delimitation** to better 
 understand population structure and history, species limits, and the role of historical 
 biogeographical processes in shaping species distributions and community assembly in 
 Neotropical biodiversity ‘hotspots’. However, high-throughput sequencing methods and 
@@ -39,35 +39,49 @@ Current projects focus on evolutionary and ecological genomics of North American
 Neotropical _freshwater fishes_ (tetras, catfishes, cichlids, and livebearers) and _forest 
 trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I am mainly 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
-and Brazilian Cerrado hotspots.
+and Brazilian Cerrado biodiversity 'hotspots'.
 
-
-### <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
-
----
-
-### <a name="specadapt"></a>genomics of speciation & local adaptation, with implications 
-for climate change
-
-Scripts for file processing and analysis in phylogenetics and phylogeography.
-
-**NOTE* This software repository, despite several minor-version releases, is still under 
-development with the first major-version release expected sometime later this year.
+Click on research topics below to learn more.
 
 ---
 
-### <a name="software"></a>code & bioinformatics pipelines
-
-Shell script pipeline for inferring ML gene trees for many loci (e.g. genomic RAD loci).
-
----
-
-### <a name="thesis"></a>PhD dissertation research
-
-Clustering using Gaussian mixture modeling for species delimitation and classification.
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="index.md">
+        Hello
+        <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="450"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="index.md">
+        there
+        <img src="assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="450"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="index.md">
+        everybody
+        <img src="assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig" width="450"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="index.md">
+        <img src="assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example" width="450"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 ---
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ComxCAB9CevHkU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/justinbagley/current-projects-summary" title="Current Projects Summary" target="_blank">Current Projects Summary</a> </strong> from <strong><a href="https://www.slideshare.net/justinbagley" target="_blank">Justin C. Bagley</a></strong> </div>
+
+---
+### <a name="thesis"></a>PhD dissertation research
+
+Clustering using Gaussian mixture modeling for species delimitation and classification.
 
 ---
