@@ -41,39 +41,41 @@ trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
 and Brazilian Cerrado biodiversity 'hotspots'.
 
-Click on research topics below to learn more.
+_Click on the lower navigation bar above to quickly access different topics._
+
+## <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
+
+  <a href="phylogeog.md" name="phylogeog">
+    <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
+  </a>
+
+**Phylogeography**, the study of the geographical distributions of genetic lineages within and 
+among closely related species, has assumed a central role in molecular ecology for inferring 
+historical and ecological processes influencing species distributions and genetic diversity. 
+Along with collaborators from throughout the U.S. and Brazil, I have been involved in a number 
+of projects using this approach, in single-species and comparative (multispecies) contexts, 
+to improve our understanding of diversification in North American and Neotropical species 
+assemblages.   
 
 ---
 
-<table class="wide">
-<tr>
-  <td class="left">
-      <a name="phylogeog"></a><font size="+2"><strong>phylogeography of freshwater & terrestrial ecosystems</strong></font>
-      <a href="phylogeog.md" name="phylogeog">
-        <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="450"/>
-     </a>
-  </td>
-  <td class="right">
-    <a href="index.md">
-        there
-        <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="450"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="index.md">
-        everybody
-        <img src="../assets/pics/swwp_fig5_dem.png" alt="Menon et al. (2018) dem modeling fig" title="Menon et al. (2018) dem modeling fig" width="450"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="index.md">
-        <img src="../assets/pics/aspen_fig3_div.png" alt="GBS SNPs popgen diversity example" title="GBS SNPs popgen diversity example" width="450"/>
-    </a>
-  </td>
-</tr>
-</table>
+### <a name="specadapt"></a>genomics of speciation & local adaptation, with implications for climate change
+
+Understanding where and how barriers to gene flow arise, and new species boundaries are formed 
+and maintained, is a central goal of evolutionary biology. The study of this general process, or 
+'speciation', presents numerous challenges and requires integrative perspectives taking into 
+account geographical factors (biogeography) and range dynamics, niche evolution, as well as
+the evolution of neutral and adaptive genetic variation in the context of demographic history. 
+I have become interested in the different ways in which plant versus animal systems can reveal 
+different aspects of the speciation
+
+---
+
+### <a name="software"></a>code & bioinformatics pipelines
+
+The rapid growth of high-throughput sequencing technologies and their use in molecular ecology 
+has precipitated a need for practical code and software solutions to the challenges presented by 
+the ensuing deluge of genome-wide DNA sequence data.
 
 ---
 
