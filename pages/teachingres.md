@@ -5,7 +5,7 @@ date: 2013-11-06 07:29:39+00:00
 layout: page
 link: http://www.justinbagley.org/teaching/teaching-resources
 slug: teaching-resources
-title: Teaching Resources
+title: teaching resources
 wordpress_id: 195
 ---
 
