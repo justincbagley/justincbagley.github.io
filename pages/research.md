@@ -42,11 +42,17 @@ trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
 and Brazilian Cerrado biodiversity 'hotspots'.
 
-**_Click on the lower navigation bar above to quickly access different topics._**
+**_Click on the lower navigation bar above to quickly access different topics below._**
 
 ### <a name="phylogeog"></a>phylogeography of freshwater & terrestrial ecosystems
 
-<img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="350"/>
+<table class="wide">
+<tr>
+  <td class="center">
+    <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="350"/>
+  </td>
+</tr>
+</table>
 
 **Phylogeography**, the study of the geographical distributions of genetic lineages within and 
 among closely related species, has assumed a central role in molecular ecology for inferring 
@@ -66,17 +72,12 @@ forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central Ame
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="index.md">
-        <img src="../assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="350"/>
-    </a>
+    <img src="../assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="350"/>
   </td>
   <td class="right">
-    <a href="index.md">
-        <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="350"/>
-    </a>
+    <img src="../assets/pics/swwp_fig4_genomic_cline.png" alt="Menon et al. (2018) genomic cline fig" title="Menon et al. (2018) genomic cline fig" width="350"/>
   </td>
 </tr>
-<tr>
 </table>
 <!-- swwp_fig5_dem.png -->
 
