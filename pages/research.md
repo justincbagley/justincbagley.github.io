@@ -50,7 +50,7 @@ and Brazilian Cerrado biodiversity 'hotspots'.
 
 <table class="wide">
 <tr>
-  <td class="center">
+  <td class="left">
     <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="350"/>
   </td>
 </tr>
@@ -103,6 +103,7 @@ projects expanding on these two avenues of research.
 
 ### <a name="systemat"></a>systematics, phylogenomics, & species delimitation
 
+<!-- My phylogenetic systematics and taxonomy studies discover and determine evolutionary relationships among species, and then seek to describe new biodiversity. -->
 [coming soon.]
 
 ---
