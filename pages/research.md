@@ -62,11 +62,11 @@ with collaborators from the U.S., Brazil, and Mexico, I have been involved in a 
 of projects using single-species and comparative (multispecies) phylogeography approaches 
 to improve our understanding of the diversification, stability, and assembly of North American 
 and Neotropical biotic communities. This work currently focuses on three intriguing systems 
-that present different contexts for understanding evolutionary processes: 1) North American 
-forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central America) and 
-3) Brazilian Cerrado biodiversity 'hotspots'. 
+that present different contexts for understanding evolutionary processes: **1)** North American 
+forest trees, and freshwater fish assemblages of the **2)** Mesoamerica (Central America) and 
+**3)** Brazilian Cerrado biodiversity 'hotspots'. 
 
-Here is a more in-depth look at my prior research in [phylogeography](../pages/phylogeog.html).
+Here is a more in-depth look at my _prior_ research in [phylogeography](../pages/phylogeog.html).
 
 <font size="-1"><a href="#top">top</a></font>
 
@@ -92,15 +92,17 @@ numerous challenges and requires integrative perspectives taking into account ge
 factors (biogeography) and range dynamics, niche evolution, reproductive isolation, as well as 
 the evolution of neutral and adaptive genetic variation in the context of demographic history. 
 I have become interested in the ways in which plant versus animal systems can reveal different 
-aspects of the speciation process. Our current projects on southwestern white pine (_Pinus
-strobiformis_) highlight the role of hybridization and extrinsic factors during ecological 
-speciation, and we are also using genome scan and environmental association analyses to understand 
+aspects of the speciation process. 
+
+Our current projects on [southwestern white pine](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14505) 
+(_Pinus strobiformis_) highlight the role of hybridization and extrinsic factors during ecological 
+speciation. We are also using genome scan and environmental association analyses to understand 
 local adaptation to climatic gradients and challenging environments (high elevation) in this 
-system, with important implications for understanding tree responses to climate change. 
-By contrast, some Neotropical fish lineages that I have studied (e.g. livebearers) are more 
+system, with important implications for understanding tree responses to _climate change_. 
+By contrast, some Neotropical fish lineages that I have studied (e.g. livebearers; Poeciliidae) are more 
 predisposed to speciation through intrinsic pre- or postmating isolation, and exhibit presumed 
 niche conservatism but a high degree of phenotypic variation. I am eager to develop future 
-projects expanding on these two avenues of research.
+projects expanding my speciation and adaptation work along these two avenues of research.
 
 <font size="-1"><a href="#top">top</a></font>
 
@@ -108,8 +110,20 @@ projects expanding on these two avenues of research.
 
 ### <a name="systemat"></a>systematics, phylogenomics, & species delimitation
 
-<!-- My phylogenetic systematics and taxonomy studies discover and determine evolutionary relationships among species, and then seek to describe new biodiversity. -->
-[coming soon.]
+<img src="../assets/pics/catostomidae_pi_profiling_over_mcc_tree.png" title="Catostomidae phylogenetic informativeness" alt="Catostomidae phylogenetic informativeness" width="400"></img>
+
+My research in systematics and taxonomy primarily focuses on discovering and determining 
+evolutionary relationships among species, and clarifying species limits, through analyses 
+of DNA sequence data and morphological characters. Hypotheses of phylogenetic relationships 
+are reconstructed based on broad taxon and character sampling using Bayesian inference 
+analysis, relaxed molecular clocks, clock-partitioning schemes, and tip- and fossil-calibrated 
+models (e.g. fossilized birth-death process). Our work also seeks to describe new biodiversity 
+to improve biodiversity accounting. This work focuses on understanding diversification 
+and the evolution of adaptive traits (e.g. reproductive mode) in monophyletic clades of 
+freshwater fishes, squamate reptiles, and pine trees. Recent papers focus on integrating 
+molecules, morphology, and fossils to infer relationships among North American ['sucker' 
+fishes (Catostomidae)](https://en.wikipedia.org/wiki/Catostomidae); and integrative taxonomy and species delimitation in Cerrado 
+lizards.
 
 <font size="-1"><a href="#top">top</a></font>
 
