@@ -68,7 +68,8 @@ forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central Ame
 
 Here is a more in-depth look at my prior research in [phylogeography](pages/phylogeog.md).
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
 
 ### <a name="specadapt"></a>genomics of speciation & local adaptation, with implications for climate change
@@ -101,7 +102,8 @@ predisposed to speciation through intrinsic pre- or postmating isolation, and ex
 niche conservatism but a high degree of phenotypic variation. I am eager to develop future 
 projects expanding on these two avenues of research.
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
 
 ### <a name="systemat"></a>systematics, phylogenomics, & species delimitation
@@ -109,7 +111,8 @@ projects expanding on these two avenues of research.
 <!-- My phylogenetic systematics and taxonomy studies discover and determine evolutionary relationships among species, and then seek to describe new biodiversity. -->
 [coming soon.]
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
 
 ### <a name="software"></a>code & bioinformatics pipelines
@@ -119,17 +122,20 @@ has precipitated a need for practical code and software solutions to the challen
 the resulting deluge of genome-wide DNA sequence data. -->
 [coming soon.]
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ComxCAB9CevHkU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/justinbagley/current-projects-summary" title="Current Projects Summary" target="_blank">Current Projects Summary</a> </strong> from <strong><a href="https://www.slideshare.net/justinbagley" target="_blank">Justin C. Bagley</a></strong> </div>
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
 
 ### <a name="thesis"></a>PhD dissertation research
 
 [coming soon.]
 
-<a href="#top">top</a>
+<font size="-1"><a href="#top">top</a></font>
+
 ---
