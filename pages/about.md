@@ -17,20 +17,19 @@ and phylogenomic datasets.
 After receiving his BS and MSc degrees in [Biology](https://bsc.ua.edu) from The University of 
 Alabama in 2004 and 2008, he received his PhD in [Integrative Biology](http://biology.byu.edu) 
 in 2014, from Brigham Young University for his work on comparative phylogeography 
-and species delimitation in Central American freshwater fishes under PhD advisor [Jerry Johnson](https://lifesciences.byu.edu/Directories/FacultyStaff/ctl/FacultyProfile/mid/5712/NetID/jbj59).
-He conducted a prestigious Young Talent Fellow postdoc in Brazil's CNPq Science Without Borders 
-program under [Francisco Langeani]() and [Guarino Colli](https://www.researchgate.net/profile/Guarino_Colli) 
-at the Universidade de Brasília's [Departamento de Zoologia](https://zoo.unb.br), 2015&ndash;2017. 
-In 2017, he moved to [Virginia Commonwealth University](https://www.vcu.edu), where he is now a 
-Postdoctoral Scholar in [Andrew Eckert's](LINK) Plant Evolutionary Genetics Laboratory.
+and species delimitation in Central American freshwater fishes under [Jerry Johnson](https://lifesciences.byu.edu/Directories/FacultyStaff/ctl/FacultyProfile/mid/5712/NetID/jbj59).
+He was a Young Talent Fellow postdoc in Brazil's CNPq Science Without Borders program under 
+[Francisco Langeani]() and [Guarino Colli](https://www.researchgate.net/profile/Guarino_Colli) 
+at the [Universidade de Brasília](https://unb.br), 2015&ndash;2017. In 2017, he moved to 
+[Virginia Commonwealth University](https://www.vcu.edu), where he is now a Postdoctoral Scholar 
+in [Andrew Eckert's](LINK) Plant Evolutionary Genetics Laboratory.
 
 Justin is an evolutionary biologist focusing on problems in molecular ecology and biodiversity 
-science from genomic and integrative (genetic + phenotypic) perspectives &ndash; particularly 
-through using genome-wide SNP data to understand how historical and ecological processes 
-shape the spatial and temporal distributions of biodiversity. Current projects focus on molecular 
-phylogeography, speciation, and local adaptation in North American and Neotropical freshwater 
-fishes and forest tree communities. Full details on his research interests can be found on the 
-[reserach](../pages/research.html) page.
+science &ndash; particularly the use of genome-wide SNP data to understand how historical and 
+ecological processes shape the spatial and temporal distributions of biodiversity in terrestrial 
+and freshwater environments. Current projects focus on molecular phylogeography, speciation, and 
+local adaptation in North American and Neotropical freshwater fishes and forest tree communities. 
+Full details on his research interests can be found on the [reserach](../pages/research.html) page.
 
 Justin is a reviewer for _Molecular Ecology_, _Molecular Phylogenetics and Evolution_, _PeerJ_, 
 _Proceedings of the Royal Society B_, and a dozen other journals in ecology and evolutionary biology.
