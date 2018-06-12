@@ -27,9 +27,9 @@ in [Andrew Eckert's](LINK) Plant Evolutionary Genetics Laboratory.
 Justin is an evolutionary biologist focusing on problems in molecular ecology and biodiversity 
 science &ndash; particularly the use of genome-wide SNP data to understand how historical and 
 ecological processes shape the spatial and temporal distributions of biodiversity in terrestrial 
-and freshwater environments. Current projects focus on molecular phylogeography, speciation, and 
-local adaptation in North American and Neotropical freshwater fishes and forest tree communities. 
-Full details on his research interests can be found on the [reserach](../pages/research.html) page.
+and freshwater environments. Current [research](../pages/research.html) projects focus on molecular 
+phylogeography, speciation, and local adaptation in North American and Neotropical freshwater fishes 
+and forest tree communities. 
 
 Justin is a reviewer for _Molecular Ecology_, _Molecular Phylogenetics and Evolution_, _PeerJ_, 
 _Proceedings of the Royal Society B_, and a dozen other journals in ecology and evolutionary biology.
