@@ -59,12 +59,7 @@ _Proceedings of the Royal Society B_, and a dozen other journals in ecology and 
             Phone: 804-828-0820
             </div>
         </div>
-
         <div class="span2">
-<!--        <a href="../assets/pics/IMG_9435_crop1_shadowborder.jpg">
-            <img src="../assets/pics/IMG_9435_crop1_shadowborder.jpg"
-                  title="Justin C. Bagley" alt="Justin C. Bagley"/></a>
--->
         <a href="../assets/pics/cscVubOE_400x400.jpg">
             <img src="../assets/pics/cscVubOE_400x400.jpg"
                   title="Justin C. Bagley" alt="Justin C. Bagley"/></a>
