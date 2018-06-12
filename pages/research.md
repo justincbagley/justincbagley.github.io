@@ -3,7 +3,7 @@ layout: page
 title: research
 description: Justin C. Bagley's research
 ---
-<a name="top"></a>
+
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -20,8 +20,7 @@ description: Justin C. Bagley's research
     </div>
 </div>
 
-
-I am interested in how historical and ecological processes act to shape the spatial and 
+<a name="top"></a>I am interested in how historical and ecological processes act to shape the spatial and 
 temporal distributions of biodiversity in freshwater and terrestrial environments. Much of 
 my work has focused on **1)** using **molecular phylogeography and species delimitation** to better 
 understand population structure and history, species limits, and the role of historical 
