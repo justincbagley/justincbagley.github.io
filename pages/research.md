@@ -22,14 +22,14 @@ description: Justin C. Bagley's research
 
 I am interested in how historical and ecological processes act to shape the spatial and 
 temporal distributions of biodiversity in freshwater and terrestrial environments. Much of 
-my work has focused on **1)** using **molecular phylogeography and species delimitation** to better 
+my work has focused on **1)** using **molecular [phylogeography](http://www.oxfordbibliographies.com/view/document/obo-9780199941728/obo-9780199941728-0041.xml) and species delimitation** to better 
 understand population structure and history, species limits, and the role of historical 
 biogeographical processes in shaping species distributions and community assembly in 
-Neotropical biodiversity ‘hotspots’. However, high-throughput sequencing methods and 
+Neotropical biodiversity ‘[hotspots](https://en.wikipedia.org/wiki/Biodiversity_hotspot)’. However, high-throughput sequencing methods and 
 bioinformatics have advanced rapidly, providing tools that I have actively used during 
 the last few years to improve my phylogeographic and phylogenetic inferences and expand my 
 research into **2)** disentangling the interplay between genetic drift, natural selection, and 
-gene flow (hybridization) during **speciation and local adaptation**. This latter focus includes 
+gene flow (hybridization) during **[speciation](https://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527) and local [adaptation](https://en.wikipedia.org/wiki/Adaptation)**. This latter focus includes 
 studying the ecological and genetic bases of adaptation to challenging environments and 
 ecological gradients, and will contribute to future genome-wide association study (GWAS) 
 approaches combining genomic and phenotypic datasets to understand the genetic architecture 
@@ -39,7 +39,7 @@ Current projects focus on evolutionary and ecological genomics of North American
 Neotropical _freshwater fishes_ (tetras, catfishes, cichlids, and livebearers) and _forest 
 trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I am mainly 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
-and Brazilian Cerrado biodiversity 'hotspots'.
+and Brazilian Cerrado biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)).
 
 **_Click on the lower navigation bar above to quickly access different topics below._**
 
