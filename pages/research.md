@@ -3,7 +3,6 @@ layout: page
 title: research
 description: Justin C. Bagley's research
 ---
-
 <a name="top"></a>
 <div class="navbar">
     <div class="navbar-inner">
