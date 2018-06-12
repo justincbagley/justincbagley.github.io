@@ -68,7 +68,7 @@ forest trees, and freshwater fish assemblages of the 2) Mesoamerica (Central Ame
 
 Here is a more in-depth look at my prior research in [phylogeography](pages/phylogeog.md).
 
-<font size="-1"><a href="#top">top</a></font>
+<font size="1"><a href="#top">top</a></font>
 
 ---
 
