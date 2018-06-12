@@ -50,7 +50,7 @@ and Brazilian Cerrado biodiversity 'hotspots' (e.g. defined [here](https://www.n
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="350"/>
+    <img src="../assets/pics/aspen_fig1_pop_struct.png" alt="Aspen GBS phylogeography" title="Aspen GBS phylogeography" width="500" class="center"/>
   </td>
 </tr>
 </table>
