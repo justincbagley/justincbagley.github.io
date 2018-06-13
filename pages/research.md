@@ -87,7 +87,7 @@ Here is a more in-depth look at my _prior_ research in [phylogeography](../pages
 <!-- swwp_fig5_dem.png -->
 
 Understanding how barriers to gene flow arise, and new species boundaries are formed and 
-maintained, is a central goal of evolutionary biology. Yet, the study of 'speciation', presents 
+maintained, is a central goal of evolutionary biology. Yet, the study of '[speciation](https://global.oup.com/ushe/product/speciation-9780878930890?cc=us&lang=en&)', presents 
 numerous challenges and requires integrative perspectives taking into account geographical 
 factors (biogeography) and range dynamics, niche evolution, reproductive isolation, as well as 
 the evolution of neutral and adaptive genetic variation in the context of demographic history. 
