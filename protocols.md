@@ -3,7 +3,7 @@ author: justin
 comments: false
 date: 2013-11-04 01:45:43+00:00
 layout: page
-link: http://www.justinbagley.org/protocols
+link: https://github.com/justincbagley/justincbagley.github.io/pages/protocols.md
 slug: protocols
 title: Protocols
 wordpress_id: 14
@@ -12,12 +12,7 @@ wordpress_id: 14
 ## **Molecular Laboratory Protocols**
 
 
-
-
 ### _**Protocols for Getting and Analyzing DNA Data for Phylogenetics and Phylogeography**_
-
-
-
 
 
 	
@@ -52,111 +47,67 @@ wordpress_id: 14
 
 
 
-
 	
   * **Library Prep for ddRAD-seq**
 
 
 
-
 ** **
 
 
 
+**DNA Extraction, PCR & Sanger Sequencing Lab Supplies - Ordering Info:** 
 
-**DNA Extraction, PCR & Sanger Sequencing Lab Supplies - Ordering Info:  **Here, I'll list some of the main supplies we use in the Lab. Students from our lab or our collaborators' labs can feel free to [email me ](http://www.justinbagley.org/contact)for login information for making online orders from the different vendors in the United States or Brazil. I can also provide email and phone number info that is sometimes necessary for making or checking on purchases from the Brazilian vendors.
-
-
-
-
-
+Here, I'll list some of the main supplies we use in the Lab. Students from our lab or our collaborators' labs can feel free to [email me ](http://www.justinbagley.org/contact)for login information for making online orders from the different vendors in the United States or Brazil. I can also provide email and phone number info that is sometimes necessary for making or checking on purchases from the Brazilian vendors.
 	
   * [Qiagen DNeasy Blood & Tissue Kit (250)](http://www.qiagen.com/products/catalog/sample-technologies/dna-sample-technologies/genomic-dna/dneasy-blood-and-tissue-kit), Qiagen, Catalog No. 69506, typical/last price $665.00.  However, we prefer to buy:  [Qiagen DNeasy 96 Blood & Tissue Kit (4)](http://www.qiagen.com/products/catalog/sample-technologies/dna-sample-technologies/genomic-dna/dneasy-blood-and-tissue-kit), Qiagen, Catalog No. 69581, typical/last price $1,138.00.
-
 	
   * Invitrogen DNA Extraction Kit.
-
 	
   * [Promega GoTaq Flexi DNA polymerase](http://www.fishersci.com/ecomm/servlet/fsproductdetail?storeId=10652&productId=1428810&catalogId=29104&matchedCatNo=PRM8298PEX||PRM8298||PRM8291||PRM8296||PRM8295||PRM8297&fromSearch=1&searchKey=gotaq||promega&highlightProductsItemsFlag=Y&endecaSearchQuery=%23store%3DScientific%23nav%3D0%23rpp%3D25%23offSet%3D0%23keyWord%3Dpromega%2Bgotaq%23searchType%3DPROD%23SWKeyList%3D%5B%5D&xrefPartType=From&savings=0.0&xrefEvent=1394736396766_11&searchType=PROD&hasPromo=0) (500 U), Fisher Scientific, Catalog No. PR-M8295, typical/last price $146.83.
-
 	
   * [Promega GoTaq Master Mix](http://www.fishersci.com/ecomm/servlet/fsproductdetail?storeId=10652&productId=1437828&catalogId=29104&matchedCatNo=PRM7132||PRM7122||PRM7123||PRM7133&fromSearch=1&searchKey=gotaq||promega&highlightProductsItemsFlag=Y&endecaSearchQuery=%23store%3DScientific%23nav%3D0%23rpp%3D25%23offSet%3D0%23keyWord%3Dpromega%2Bgotaq%23searchType%3DPROD%23SWKeyList%3D%5B%5D&xrefPartType=From&savings=0.0&xrefEvent=1394736396761_9&searchType=PROD&hasPromo=0) (green), Fisher Scientific, Catalog No. PRM7123 , typical/last price $394.33.
-
 	
   * [Sigma-Aldrich dNTP 100 (100 mM)](http://www.sigmaaldrich.com/catalog/search?interface=All&term=dntp+100&N=0&mode=match%20partialmax&focus=product&lang=en&region=US), Sigma-Aldrich, Catalog No. DNTP100-1KT, typical/last price $282.00.
-
 	
   * PCR plates (96 well, non-skirted), [ISC BioExpress Catalog No. T-3184-1 (20 pk)](http://www.bioexpress.com/divinity-cart/item/452300/GeneMate-Non-skirted-Flat-well-PCR-Plates/1.html) or [Fisher Scientific Catalog No. 14-230-234 (25 pk)](http://www.fishersci.com/ecomm/servlet/fsproductdetail?storeId=10652&productId=7165856&catalogId=29104&matchedCatNo=14230236||14230235||14230233||14230234||14230232&fromSearch=1&searchKey=plates||PCR||plate&highlightProductsItemsFlag=Y&endecaSearchQuery=%23store%3DScientific%23nav%3D0%23rpp%3D75%23offSet%3D0%23keyWord%3DPCR%2Bplate%23searchType%3DPROD%23SWKeyList%3D%5B%5D&xrefPartType=From&savings=0.0&xrefEvent=1394737186818_4&searchType=PROD&hasPromo=0), typical/last price $71.00 to ~$100.00.
-
 	
   * [ThermaSeal PCR plate sealing films (100 pk)](http://www.bioexpress.com/divinity-cart/item/353945/EXCEL-SCIENTIFIC-Classic-ThermalSeal-Sealing-Films-for-PCR/1.html), ISC BioExpress, Catalog No. T-2417-5, typical/last price $71.48 (sale $53.50).
-
 	
-  * 10 ul pipette tips, ISC BioExpress.
-
-	
+  * 10 ul pipette tips, ISC BioExpress.	
   * 200 ul pipette tips, ISC BioExpress.
-
-	
   * 300 ul pipette tips, ISC BioExpress.
-
-	
   * 1000 ul pipette tips, ISC BioExpress.
-
-	
   * 1.5 mL PCR mix tubes, Fisher Scientific.
-
-	
   * 0.5 mL PCR/primer tubes, Fisher Scientific.
-
-
-
 
 [More coming soon.]
 
 
 
-
 ** **
 
 
 
+**DNA Extraction Tips & Protocols:** 
 
-**DNA Extraction Tips & Protocols: ** As noted above, I tend to use Qiagen DNeasy Blood & Tissue extraction kits, or Invitrogen kits, to get whole genomic DNA from the fishes and lizards we study, and the starting material is typically white muscle or fin clip tissue.
-
-
-
+As noted above, I tend to use Qiagen DNeasy Blood & Tissue extraction kits, or Invitrogen kits, to get whole genomic DNA from the fishes and lizards we study, and the starting material is typically white muscle or fin clip tissue.
 
 I prefer to conduct my extractions using 96-well extraction plates with Qiagen DNeasy 96 kits, and the DNeasy 96 protocol for Animal Tissues. I do this wherever possible, because though more expensive this is much easier and faster! However, when working in the Johnson Lab at BYU, we apply some mild modifications to the Qiagen protocol. A copy of the handbook for these Qiagen DNeasy kits is provided free from the Berkeley Museum of Vertebrate Zoology [here](http://mvz.berkeley.edu/egl/resources/product%20inserts/DNeasy_Blood_&_Tissue_Handbook.pdf).  We modify this Animal Tissues protocol on pgs. 35-40, because the lab centrifuge only reaches up to a max. speed of 4150 x_g_.  Specifically, to accommodate this, we do our first lysate spin (handbook step #10) for 15 min at 4150 x_g_ (instead of 10 min at 6000 x_g_), we do the Buffer AW1 spin (handbook step #12) for 7.5-8 min at 4150 x_g_ (instead of 5 min at 6000 x_g_), and we do the "topless" (no cover) Buffer AW2 spin (handbook step #14) for a first spin for 20 min at 4150 x_g_ (instead of 15 min at 6000 x_g_) and a second spin of 2 min.  I personally almost always do 1 elution step with 200 ul of water (with 1 min incubation at room temperature), and this has worked very well for me, with very low error rates and reasonable DNA yields.
 
-
-
-
 In Brazil, we are using Invitrogen PureLink® DNA kits to conduct extractions, and these are essentially exactly the same as the Qiagen kits, except the kits employ individual stand-alone columns for each sample, and thus limiting factors include the number of spaces and speed of available centrifuges, the speed with which you (or students) are capable of working on each column, and speed of moving columns between racks and centrifuges. Another difference is that, when using the Invitrogen kits, we always take the extra time to add RNAase to the samples before moving them to the columns.
-
-
-
 
 [More coming soon.]
 
 
 
-
 ** **
-
 
 
 
 **PCR & Sanger Sequencing Protocols **
 
-
-
-
 **PCR Cleanup using Millipore 96 well plates (purple, multiscreen 96)**
-
-
-
-
 
 	
   1. Bring total PCR volume up to 100 μl (for 25 μl reactions that you used 5 μl of for your check gel, you would have ~20–21 μl reaction volume remaining on your PCR plate after completing a check gel analysis; thus, you would need to add ~79–80 μl of autoclaved/dH2O water to bring the reaction volume up to a total of 100 μl).
@@ -178,7 +129,6 @@ In Brazil, we are using Invitrogen PureLink® DNA kits to conduct extractions, a
 
 
 
-
 	
   5. After completing the vacuum filtration step above, turn off the pump and remove the Millipore plate from the vacuum manifold.  Blot the bottom of the plate with a paper towel to remove excess water.
 
@@ -196,22 +146,16 @@ In Brazil, we are using Invitrogen PureLink® DNA kits to conduct extractions, a
 
 
 
-
 ** **
-
 
 
 
 **Faster PCR Cleanup using ExoSAP-IT (Exonuclease I and Shrimp Alkaline Phosphatase in buffer)**
 
-
-
-
-
 	
   1. Place 4 μl of ExoSAP-IT stock into each well containing ~12-15 μl PCR reactions that you desire to clean.
 
-	
+
   2. Incubate for one cycle at 37 degrees C for 30 minutes to degrade remaining primers and nucleotides.
 
 	
@@ -222,9 +166,7 @@ In Brazil, we are using Invitrogen PureLink® DNA kits to conduct extractions, a
 
 
 
-
 ** **
-
 
 
 
@@ -234,7 +176,6 @@ In Brazil, we are using Invitrogen PureLink® DNA kits to conduct extractions, a
 
 
 Most labs reduce the amount of Big Dye Terminator Reaction mix they use in each cycle sequencing reaction, in order to make the available mix last longer, and hence save money (Big Dye is expensive!). Dilutions of 1/8 or 1/16 relative to the standard full reaction concentration of 4 μl  of 2.5x Big Dye mix per 10 μl total cycle sequencing reaction volume (or 8 μl per 20 μl total volume) are commonly used. The following table provides cycle sequencing reaction mix setups using each of the common dilutions.
-
 
 
 
@@ -349,9 +290,7 @@ We run our cycle sequencing reactions on ABI 9700 PCR thermocyclers using the fo
 
 
 
-
 ** **
-
 
 
 
@@ -359,12 +298,7 @@ We run our cycle sequencing reactions on ABI 9700 PCR thermocyclers using the fo
 
 
 
-
 The following DNA cycle sequencing reaction cleanup protocol relies on Sephadex beads from GE Healthcare and is specific to the Johnson Lab at BYU. For example, the protocol contains directions for prepping plates of sequences for submission to the [BYU DNA Sequencing Center](http://dnasc.byu.edu) core facility.  Still, the procedure is written in practical terms and can easily be modified to work in almost any molecular evolution or molecular biology lab.
-
-
-
-
 
 	
   1. Obtain Millipore multiscreen filter plates (96 well, item doesn’t say “PCR”).  Add a used 96-well, v-bottom plate to the bottom of the filter plate.
