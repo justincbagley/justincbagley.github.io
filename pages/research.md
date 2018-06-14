@@ -35,7 +35,7 @@ ecological gradients, and will contribute to future genome-wide association stud
 approaches combining genomic and phenotypic datasets to understand the genetic architecture 
 of ecologically important traits.
 
-Current projects focus on evolutionary and ecological genomics of North American and 
+Current projects focus on **evolutionary and ecological genomics** of North American and 
 Neotropical _freshwater fishes_ (tetras, catfishes, cichlids, and livebearers) and _forest 
 trees_ (white pines, quaking aspen, and Chilean pine). Within the Neotropics, I am mainly 
 interested in uncovering drivers of biodiversity in the Mesoamerica (Central America) 
