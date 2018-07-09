@@ -21,7 +21,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
 
 <div class="dropdown">
   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-    Dropdown
+    Navbar
     <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
