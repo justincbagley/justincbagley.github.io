@@ -5,8 +5,7 @@ description: Justin Bagley is an evolutionary biologist and postdoctoral researc
 keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics, bioinformatics, fishes, trees
 ---
 
-<!-- 
-<div class="navbar">
+ <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Bagley_CV_May152018.pdf">cv</a></li>
@@ -16,9 +15,9 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
       </ul>
   </div>
 </div>
--->
 
 
+<!-- ATTEMPTING BOOTSTRAP 3.3 DROPDOWN MENU (https://getbootstrap.com/docs/3.3/components/#navbar)
 <div class="dropdown">
   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     Navbar
@@ -31,6 +30,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
           <li><a href="https://twitter.com/justincbagley">@justincbagley</a></li>
   </ul>
 </div>
+-->
 
 <table class="wide">
 <tr>
