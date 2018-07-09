@@ -18,7 +18,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
 </div>
 -->
 
-
+<!--
 <div class="dropdown">
   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     Dropdown
@@ -31,7 +31,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
           <li><a href="https://twitter.com/justincbagley">@justincbagley</a></li>
   </ul>
 </div>
-
+-->
 <table class="wide">
 <tr>
   <td class="left">
