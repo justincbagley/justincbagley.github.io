@@ -19,7 +19,7 @@ keywords: Bagley, ddRADseq, genomics, phylogeography, adaptation, phylogenetics,
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="index.md">
+    <a href="index.html">
         <img src="assets/pics/swwp_figb_pop_struct.png" alt="ddRADseq population structure example" title="ddRADseq population structure example" width="450"/>
     </a>
   </td>
