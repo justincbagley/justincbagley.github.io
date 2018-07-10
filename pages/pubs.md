@@ -36,9 +36,13 @@ suckermouth armored catfish (Loricariidae: _Hypostomus_) from the central Brazil
 [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x).
 <!-- * 16 * -->
 
-**Bagley JC**, Harris PM, Mayden, RL (_minor revisions_) Phylogeny, temporal diversification, 
+**Bagley JC**, Mayden RL, Harris PM (2018) Phylogeny, temporal diversification, 
 and conflicting relationships of suckers (Cypriniformes: Catostomidae) inferred from 
-multiple data types and fossil-calibrated divergence dating. [PeerJ](https://peerj.com).
+multiple data types and fossil-calibrated divergence dating. [PeerJ](https://peerj.com), 
+6, e5168.
+[HTML](https://peerj.com/articles/5168/)
+[![pdf](icons16/pdf-icon.png)](https://peerj.com/articles/5168.pdf)
+[![doi](icons16/doi-icon.png)](https://doi.org/10.7717/peerj.5168)
 <!-- * 15 * -->
  
 Menon MG, **Bagley JC**, Friedline C, Whipple A, Schoettle A, Sáenz AL, Wehenkel CA, 
