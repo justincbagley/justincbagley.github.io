@@ -27,7 +27,7 @@ Poster Presentation)
 
 <!--22. -->**Bagley JC**, Aquino PPU, Hrbek T, Hernandez S, Langeani F, Colli GR (2017) Using ddRAD-
 seq phylogeography to test for genetic effects of headwater river capture in suckermouth 
-armored catfish (Loricariidae: Hypostomus) from the central Brazilian Shield. [Evolution 
+armored catfish (Loricariidae: _Hypostomus_) from the central Brazilian Shield. [Evolution 
 Meeting 2017](https://www.evolutionmeetings.org/previous-meetings.html), Portland, OR, June 23–27. (International Meeting; Oral Presentation) 
 <!-- * 22 * --> 
 
