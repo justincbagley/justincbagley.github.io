@@ -65,6 +65,8 @@ While I intend to conduct this research in my main geographical areas of focus, 
 
 <font size="-1"><a href="#top">top</a></font>
 
+---
+
 
 **References**
 
@@ -85,4 +87,5 @@ Zink RM (2002) Methods in comparative phylogeography, and their application to s
 
 <font size="-1"><a href="#top">top</a></font>
 
+---
 
