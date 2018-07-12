@@ -22,7 +22,7 @@ He was a Young Talent Fellow postdoc in Brazil's CNPq Science Without Borders pr
 [Francisco Langeani]() and [Guarino Colli](https://www.researchgate.net/profile/Guarino_Colli) 
 at the [Universidade de Brasília](https://unb.br), 2015&ndash;2017. In 2017, he moved to 
 [Virginia Commonwealth University](https://www.vcu.edu), where he is now a Postdoctoral Scholar 
-in [Andrew Eckert's](LINK) Plant Evolutionary Genetics Laboratory.
+in [Andrew Eckert's](https://www.eckertlab.com) Plant Evolutionary Genetics Laboratory.
 
 Justin is an evolutionary biologist focusing on problems in molecular ecology and biodiversity 
 science &ndash; particularly the use of genome-wide SNP data to understand how historical and 
