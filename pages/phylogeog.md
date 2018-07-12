@@ -8,7 +8,7 @@ slug: phylogeography
 title: Phylogeography
 wordpress_id: 659
 ---
-
+<a name="top"></a>
 ## **What is phylogeography?**
 
 <blockquote>"[G]eology and biogeography are both parts of natural history and, if they represent the independent and dependent variables respectively in a cause and effect relationship, … they can be reciprocally illuminating" (Rosen 1978, p. 776).
@@ -71,12 +71,15 @@ Avise JC, Arnold J, Ball RM, Bermingham E, Lamb T, Neigel JE, Reeb CA, Saunders 
 Bagley JC, Johnson JB (2014a) Phylogeography of the lower Central American Neotropics: diversification between two continents and between two seas. Biological Reviews, 89(4), 767-790.  
 Bagley JC, Johnson JB (2014b) Testing for shared biogeographic history in the lower Central American freshwater fish assemblage using comparative phylogeography: concerted, independent, or multiple evolutionary responses? Ecology and Evolution, 4(9), 1686-1705.  
 Bagley JC, Mayden RL, Roe KJ, Holznagel W, Harris PM (2011). Congeneric phylogeographical sampling reveals polyphyly and novel biodiversity within black basses (Centrarchidae: Micropterus). Biological Journal of the Linnean Society, 104(2), 346-363.  
-Bagley JC, Sandel M, Travis J, Lozano-Vilano M de L, Johnson JB (2013) Paleoclimatic modeling and phylogeography of least killifish, Heterandria formosa: insights into Pleistocene expansion-contraction dynamics and evolutionary history of North American Coastal Plain freshwater biota. BMC Evolutionary Biology, 13, 223.  
-Unmack PJ, Bagley JC, Adams MD, Hammer MD, Johnson JB (2012) Molecular phylogeny and phylogeography of the Australian freshwater fish genus Galaxiella (Teleostei: Galaxiidae), with an emphasis on dwarf galaxias (G. pusilla). PLoS One, 7(6), e38433.  
+Bagley JC, Sandel M, Travis J, Lozano-Vilano M de L, Johnson JB (2013) Paleoclimatic modeling and phylogeography of least killifish, _Heterandria formosa_: insights into Pleistocene expansion-contraction dynamics and evolutionary history of North American Coastal Plain freshwater biota. BMC Evolutionary Biology, 13, 223.  
+Unmack PJ, Bagley JC, Adams MD, Hammer MD, Johnson JB (2012) Molecular phylogeny and phylogeography of the Australian freshwater fish genus _Galaxiella_ (Teleostei: Galaxiidae), with an emphasis on dwarf galaxias (_G. pusilla_). PLoS One, 7(6), e38433.  
 Beheregaray LB (2008) Twenty years of phylogeography: the state of the field and the challenges for the Southern Hemisphere. Molecular Ecology, 17, 3754-3774.  
 Bermingham E, Martin AP (1998) Comparative mtDNA phylogeography of neotropical freshwater fishes: testing shared history to infer the evolutionary landscape of lower Central America. Molecular Ecology, 7, 499-517.  
 Bloomquist EW, Lemey P, Suchard MA (2010) Three roads diverged? Routes to phylogeographic inference. Trends in Ecology & Evolution, 25, 626-632.  
 Knowles LL (2009) Statistical phylogeography. Annual Review in Ecology, Evolution, and Systematics, 40, 593-612.  
 Rosen DE (1978) Vicariant patterns and historical explanation in biogeography. Systematic Zoology, 27, 159-188.  
-Zink RM (2002) Methods in comparative phylogeography, and their application to studying evolution in the North American aridlands. Integrative and Comparative Biology, 42, 953-959.**  
-**
+Zink RM (2002) Methods in comparative phylogeography, and their application to studying evolution in the North American aridlands. Integrative and Comparative Biology, 42, 953-959.  
+
+<font size="-1"><a href="#top">top</a></font>
+
+
