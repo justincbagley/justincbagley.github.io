@@ -5,7 +5,7 @@ date: 2014-04-04 15:59:28+00:00
 layout: page
 link: http://www.justinbagley.org/phylogeography
 slug: phylogeography
-title: Phylogeography
+title: phylogeography
 wordpress_id: 659
 ---
 <a name="top"></a>
