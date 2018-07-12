@@ -52,7 +52,7 @@ Brasileiro de Herpetologia](http://8cbh.herpeto.org), Mato Grosso, Brazil. (Nati
 Presentation) 
 <!-- * 19 * --> 
 
-<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, Bagley J, Colli G (2017) Next-Generation 
+<!--18. -->Wiederhecker HC, Breitman MF, Domingos F, **Bagley J**, Colli G (2017) Next-Generation 
 Teaching: ensinando ao pesquisar taxonomia integrative beneficia estudantes e professores. 
 [VIII Congresso Brasileiro de Herpetologia](http://8cbh.herpeto.org). (National Meeting; Abstract + Oral 
 Presentation) 
