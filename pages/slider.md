@@ -12,14 +12,26 @@ location:
 <div class="span8">
 	<div id="slider" class="carousel slide">
 		<div class="carousel-inner">
-			
 			<div class="item">
-			<img src="../assets/pics/strobiformis08.jpg">
-			
-			<div class="carousel-caption">
-				<h4>Headline</h4>
-				<p>Description</p>
+				<img src="../assets/pics/strobiformis08.jpg">
+				<div class="carousel-caption">
+					<h4>Headline for image 1</h4>
+					<p>Description for image 1</p>
+				</div>
 			</div>
+			<div class="item">
+				<img src="../assets/pics/strobiformis09.jpg">
+				<div class="carousel-caption">
+					<h4>Headline for image 2</h4>
+					<p>Description for image 2</p>
+				</div>
+			</div>
+			<div class="item">
+				<img src="../assets/pics/Mitra_treehug.JPG">
+				<div class="carousel-caption">
+					<h4>Headline for image 3</h4>
+					<p>Description for image 3</p>
+				</div>
 			</div>
 		</div>
 	</div>
