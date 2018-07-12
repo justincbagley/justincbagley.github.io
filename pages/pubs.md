@@ -3,7 +3,7 @@ layout: page
 title: pubs
 description: Justin C. Bagley's publications
 ---
-
+<a name="top"></a>
 To download the publications below, click on the Adobe PDF logo following each reference 
 and obtain PDF files from the publisher's website or my [ResearchGate profile](https://www.researchgate.net/profile/Justin_Bagley2).  However, to comply with copyright laws, I ask that you please limit the use of PDF files to printing 
 of single copies for personal research and study, and do not modify the files in any way or 
@@ -197,3 +197,6 @@ doi: 10.11646/zootaxa.4196.3.9.
 ### <a name="editorials"></a>editorials and letters
 
 [coming soon.]
+
+
+<font size="-1"><a href="#top">top</a></font>
