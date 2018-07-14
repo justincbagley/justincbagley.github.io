@@ -1,0 +1,105 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+/*@media (min-width: 992px) { 
+ */
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
+
+/* Custom containers */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px; }
+
+.container-narrow > hr {
+  margin: 30px 0; }
+
+
+/* Below this line - css from kbroman.css */
+
+code {
+  padding: 0;
+  font-size: 90%;
+  color: black;
+  background-color: white;
+  border: 0px solid white;
+}
+
+a code {
+/*    color: #6A5ACD; */
+/*    color: #5bc0de; */
+    color: #1598E0;
+}
+
+a {
+/*    color: #6A5ACD; */
+/*    color: #5bc0de; */
+    color: #1598E0;
+}
+
+/*a:hover {
+    color: #483D8B;
+    background-color: #e3e4fa;
+    text-decoration: none;
+}
+*/
+
+a img {
+    border: solid 2px white;
+}
+
+/*a:hover img {
+    color: #483D8B;
+    background-color: #e3e4fa;
+    text-decoration: none;
+    border: solid 2px #e3e4fa;
+}
+*/
+
+p.center {
+    text-align: center;
+}
+
+table.wide {
+    width: 100%;
+}
+
+table.wide td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+td.left {
+    text-align: left;
+}
+
+td.right {
+    text-align: right;
+}
+
+#hide_email b {
+    display: none;
+}
+
+
+h1, h2, h3, h4 {
+    color: #483D8B;
+}
+
+.bg-darkslateblue {
+    background-color: #483D8B;
+}
