@@ -103,7 +103,8 @@
 		   </div>
 		</form>
 		<!-- SEARCH RESULTS CONTENT
-		<div id="tipue_search_content"></div> -->
+		<div id="tipue_search_content"></div> 
+		-->
 	</div>
     </div>
 			
@@ -115,7 +116,19 @@ $(document).ready(function() {
 });
 </script>
 -->
-	  
+
+<!--IMPROVED CALL FOR SEARCH RESULTS 
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch({
+          'show': 10,
+          'newWindow': false,
+          'imageZoom': true
+     });
+});
+</script>
+-->
+
 <!--CALL FOR SEARCH RESULTS - Live mode example from URL: https://www.sitepoint.com/community/t/tipue-search-search-engine-for-your-site/39719
 NOTE: This code is from 2013 or so, so it looks deprecated; probably best not to use this...
 <script>
