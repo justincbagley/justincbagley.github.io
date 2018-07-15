@@ -47,6 +47,22 @@ var tipuesearch_stem = {'words': [
 ]};
 
 
+// Pages
+
+var tipuesearch_pages = ["https://justinbagley.org",
+                         "https://justinbagley.org/pages/about.html,
+                         "https://justinbagley.org/pages/research.html",
+                         "https://justinbagley.org/pages/pubs.html",
+                         "https://justinbagley.org/pages/talks.html",
+                         "https://justinbagley.org/pages/tutorials.html",
+                         "https://justinbagley.org/pages/phylogeography.html",
+                         "https://justinbagley.org/pages/teaching.html",
+                         "https://justinbagley.org/pages/teachingres.html",
+                         "https://justinbagley.org/pages/search.html",
+                         "https://justinbagley.org/pages/searchres.html",
+];
+
+
 // Related
 
 var tipuesearch_related = {'Related': [
