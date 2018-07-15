@@ -95,12 +95,21 @@
         <div class="cta container rounded text-center text-white">
             <h1 class="text-primary">search results</h1>
             <p class="lead p-3">
-	    	      Searching <a href="https://justinbagley.org">justinbagley.org</a> found...
+	    	Searching <a href="https://justinbagley.org">justinbagley.org</a> found...
             </p>
             <div id="tipue_search_content"></div>
         </div>
     </div>
 			
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch();
+	'show': 10
+     });
+});
+</script>
+
+<!--
 <script>
 $(document).ready(function() {
      $('#tipue_search_input').tipuesearch();
@@ -110,7 +119,8 @@ $(document).ready(function() {
      });
 });
 </script>
-	  
+-->
+
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
