@@ -97,17 +97,24 @@
             <p class="lead p-3">
 	    	Search <a href="https://justinbagley.org">justinbagley.org</a> below.
             </p>
-		<form action="searchres.html">
+		<!-- <form action="searchres.html"> -->
+		<form action="search.html">
 		   <div class="tipue_search_group">
 			<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
 		   </div>
 		</form>
-		<!-- SEARCH RESULTS CONTENT
+		<!-- SEARCH RESULTS CONTENT-->
 		<div id="tipue_search_content"></div> 
-		-->
 	</div>
     </div>
 			
+<script>
+$(document).ready(function() {
+     $('#tipue_search_input').tipuesearch();
+     });
+});
+</script>
+
 <!--CALL FOR SEARCH RESULTS
 <script>
 $(document).ready(function() {
