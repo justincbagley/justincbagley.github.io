@@ -18,6 +18,9 @@ var tipuesearch_stop_words = ["a", "above", "after", "again", "against", "all", 
 // Word replace
 
 var tipuesearch_replace = {'words': [
+     {'word': 'phylogny', 'replace_with': 'phylogeny'},
+     {'word': 'Bagely', 'replace_with': 'Bagley'},
+     {'word': 'evoltuion', 'replace_with': 'evolution'},
      {'word': 'tip', 'replace_with': 'tipue'},
      {'word': 'javscript', 'replace_with': 'javascript'},
      {'word': 'jqeury', 'replace_with': 'jquery'}
@@ -27,10 +30,11 @@ var tipuesearch_replace = {'words': [
 // Weighting
 
 var tipuesearch_weight = {'weight': [
-     {'url': 'http://www.tipue.com', 'score': 60},
-     {'url': 'http://www.tipue.com/search', 'score': 60},
-     {'url': 'http://www.tipue.com/tipr', 'score': 30},
-     {'url': 'http://www.tipue.com/support', 'score': 20}
+     {'url': 'https://justinbagley.org', 'score': 50},
+     {'url': 'https://justinbagley.org/pages/research.html', 'score': 60},
+     {'url': 'https://justinbagley.org/pages/pubs.html', 'score': 60},
+     {'url': 'https://justinbagley.org/pages/about.html', 'score': 60},
+     {'url': 'https://justinbagley.org/pages/tutorials.html', 'score': 20}
 ]};
 
 
