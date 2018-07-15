@@ -51,6 +51,7 @@ var tipuesearch_stem = {'words': [
 // Pages
 
 var tipuesearch_pages = ["https://justinbagley.org",
+                         "https://justinbagley.org/index.html",
                          "https://justinbagley.org/pages/about.html,
                          "https://justinbagley.org/pages/research.html",
                          "https://justinbagley.org/pages/pubs.html",
