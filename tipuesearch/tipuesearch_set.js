@@ -47,6 +47,7 @@ var tipuesearch_stem = {'words': [
 ]};
 
 
+/*
 // Pages
 
 var tipuesearch_pages = ["https://justinbagley.org",
@@ -61,7 +62,7 @@ var tipuesearch_pages = ["https://justinbagley.org",
                          "https://justinbagley.org/pages/search.html",
                          "https://justinbagley.org/pages/searchres.html",
 ];
-
+*/
 
 // Related
 
