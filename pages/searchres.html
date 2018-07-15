@@ -97,7 +97,8 @@
             <p class="lead p-3">
 	    	Searching <a href="https://justinbagley.org">justinbagley.org</a> found...
             </p>
-            <div id="tipue_search_content"></div>
+            <div id="tipue_search_content">
+	    </div>
             <p class="lead p-3">
 	    	Back to <a href="https://justinbagley.org/pages/search.html">search</a>.
             </p>
@@ -106,8 +107,10 @@
 			
 <script>
 $(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
-	'show': 10
+     $('#tipue_search_input').tipuesearch({
+          'show': 10,
+          'newWindow': false,
+          'imageZoom': true
      });
 });
 </script>
