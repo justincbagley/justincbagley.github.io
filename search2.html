@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<!--Tipue Search scripts (modified from code in setup tutorial at URL: http://www.tipue.com/search/help/?d=1)
+	<!--Tipue Search scripts (modified from code in setup tutorial at URL: http://www.tipue.com/search/help/?d=1) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
 
@@ -17,7 +17,7 @@
 	<link rel="stylesheet" href="tipuesearch/css/tipuesearch.css">
 	<script src="tipuesearch/tipuesearch_set.js"></script>
 	<script src="tipuesearch/tipuesearch.min.js"></script>
-	END Tipue Search scripts -->
+	<!-- END Tipue Search scripts -->
 
     <title>search</title>
 
@@ -98,14 +98,14 @@
             <p class="lead p-3">
 	    	Search <a href="https://justinbagley.org">justinbagley.org</a> below.
             </p>
-		<form action="searchres.html" role="search">
+		<!-- <form action="searchres.html" role="search"> -->
+		<form role="search">
 		   <div class="tipue_search_group">
 			<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
 		   </div>
 		</form>
-		<!-- SEARCH RESULTS CONTENT
-		<div id="tipue_search_content"></div> 
-		-->
+		<!-- SEARCH RESULTS CONTENT -->
+		<div id="tipue_search_content"></div>
 	</div>
     </div>
 			
@@ -118,7 +118,7 @@ $(document).ready(function() {
 </script>
 -->
 
-<!--IMPROVED CALL FOR SEARCH RESULTS 
+<!--IMPROVED CALL FOR SEARCH RESULTS -->
 <script>
 $(document).ready(function() {
      $('#tipue_search_input').tipuesearch({
@@ -128,7 +128,7 @@ $(document).ready(function() {
      });
 });
 </script>
--->
+
 
 <!--CALL FOR SEARCH RESULTS - Live mode example from URL: https://www.sitepoint.com/community/t/tipue-search-search-engine-for-your-site/39719
 NOTE: This code is from 2013 or so, so it looks deprecated; probably best not to use this...
