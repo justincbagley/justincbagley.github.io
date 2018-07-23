@@ -94,45 +94,23 @@
 			<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
 		   </div>
 		</form>
-		<!-- SEARCH RESULTS CONTENT -->
-		<!-- <div id="tipue_search_content"></div> -->
+
+<script>
+  (function() {
+    var cx = '001889442856820716750:bum9o28drhc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
 	</div>
     </div>
-			
-<!--DEFAULT CALL FOR SEARCH RESULTS
-<script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
-     });
-});
-</script>
--->
 
-<!--IMPROVED CALL FOR SEARCH RESULTS
-<script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch({
-          'show': 10,
-          'newWindow': false,
-          'imageZoom': true
-     });
-});
-</script>
--->
-
-
-<!--CALL FOR SEARCH RESULTS - Live mode example from URL: https://www.sitepoint.com/community/t/tipue-search-search-engine-for-your-site/39719
-NOTE: This code is from 2013 or so, so it looks deprecated; probably best not to use this...
-<script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
-          'mode': 'live',
-          'liveDescription': '.header',
-          'liveContent': '.container'
-     });
-});
-</script>
--->
 
     <!-- Footer -->
     <footer class="py-5 bg-dark">
