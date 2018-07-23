@@ -9,33 +9,24 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<!--Tipue scripts (modified from code in setup tutorial at URL: http://www.tipue.com/search/help/?d=1) -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
-
-	<script src="../tipuesearch/tipuesearch_content.js"></script>
-	<link rel="stylesheet" href="../tipuesearch/css/tipuesearch.css">
-	<script src="../tipuesearch/tipuesearch_set.js"></script>
-	<script src="../tipuesearch/tipuesearch.min.js"></script>
-	  
-    <title>search results</title>
+    <title>search</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../css/1-col-portfolio.css" rel="stylesheet">
+    <link href="css/1-col-portfolio.css" rel="stylesheet">
 
     <style>
         .page-background {
-            background: url(../img/aspen-andrea-reiman-400379-unsplash.jpg) no-repeat center center;
+            background: url(img/aspen-andrea-reiman-400379-unsplash.jpg) no-repeat center center;
             background-size: cover;
             height: 100vh;
         }
         .cta {
             position: relative;
             top: 35%;
-            transform: translateY(-35%);
+            transform: translateY(-30%);
             background: rgba(0, 0, 0, 0.5); 
             padding: 3rem; 
         }
@@ -48,37 +39,37 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="../index.html">Justin C. Bagley - Ecological & Evolutionary Genetics</a>
+        <a class="navbar-brand" href="index.html">Justin C. Bagley - Ecological & Evolutionary Genetics</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="../index.html">home
+              <a class="nav-link" href="index.html">home
                 <span class="sr-only">(current)</span>
 	      </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">about</a>
+              <a class="nav-link" href="pages/about.html">about</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="research.html">research</a>
+              <a class="nav-link" href="pages/research.html">research</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="pubs.html">publications</a>
+              <a class="nav-link" href="pages/pubs.html">publications</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="talks.html">talks</a>
+              <a class="nav-link" href="pages/talks.html">talks</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="software.html">software</a>
+              <a class="nav-link" href="pages/software.html">software</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="teaching.html">teaching</a>
+              <a class="nav-link" href="pages/teaching.html">teaching</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="protocols.html">protocols</a>
+              <a class="nav-link" href="pages/protocols.html">protocols</a>
             </li>
           </ul>
         </div>
@@ -87,45 +78,39 @@
 
 
       <!-- Page Heading
-      <h1 class="my-4">search results
+      <h1 class="my-4">search
       </h1>
       -->
 
     <div class="page-background">
         <div class="cta container rounded text-center text-white">
             <h1 class="text-primary">search results</h1>
-            <p class="lead p-3">
+            <!-- <p class="lead p-3">
 	    	Searching <a href="https://justinbagley.org">justinbagley.org</a> found...
-            </p>
-            <div id="tipue_search_content">
-	    </div>
+            </p> -->
+
+<script>
+  (function() {
+    var cx = '001889442856820716750:bum9o28drhc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchresults-only></gcse:searchresults-only>
+
             <p class="lead p-3">
-	    	Back to <a href="https://justinbagley.org/pages/search.html">search</a>.
+	    	<!-- Back to <a href="https://justinbagley.org/sa-search.html">search</a>. -->
+			Back <a href="https://justinbagley.org/">home</a>.
             </p>
+
         </div>
     </div>
-			
-<script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch({
-          'show': 10,
-          'newWindow': false,
-          'imageZoom': true
-     });
-});
-</script>
 
-<!--
-<script>
-$(document).ready(function() {
-     $('#tipue_search_input').tipuesearch();
-          'mode': 'live',
-          'liveDescription': '.header',
-          'liveContent': '.container'
-     });
-});
-</script>
--->
+
 
     <!-- Footer -->
     <footer class="py-5 bg-dark">
@@ -141,8 +126,8 @@ $(document).ready(function() {
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="../vendor/jquery/jquery.min.js"></script>
-    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   </body>
 
